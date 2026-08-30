@@ -1,0 +1,30 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Base	Size	Name	Path	LoadCount	LoadTime	File output
+
+1688	SearchFilterHo	0xffc00000	0x20000	SearchFilterHost.exe	C:\Windows\system32\SearchFilterHost.exe	-1	N/A	Disabled
+1688	SearchFilterHo	0x773f0000	0x1a9000	ntdll.dll	C:\Windows\SYSTEM32\ntdll.dll	-1	N/A	Disabled
+1688	SearchFilterHo	0x772d0000	0x11f000	kernel32.dll	C:\Windows\system32\kernel32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefd6a0000	0x6b000	KERNELBASE.dll	C:\Windows\system32\KERNELBASE.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe470000	0xdb000	ADVAPI32.dll	C:\Windows\system32\ADVAPI32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefdee0000	0x9f000	msvcrt.dll	C:\Windows\system32\msvcrt.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe2c0000	0x1f000	sechost.dll	C:\Windows\SYSTEM32\sechost.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe050000	0x12d000	RPCRT4.dll	C:\Windows\system32\RPCRT4.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x771d0000	0xfa000	USER32.dll	C:\Windows\system32\USER32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe550000	0x67000	GDI32.dll	C:\Windows\system32\GDI32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe2e0000	0xe000	LPK.dll	C:\Windows\system32\LPK.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefdf80000	0xc9000	USP10.dll	C:\Windows\system32\USP10.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe760000	0x203000	ole32.dll	C:\Windows\system32\ole32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe660000	0xd7000	OLEAUT32.dll	C:\Windows\system32\OLEAUT32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fef68d0000	0x238000	TQUERY.DLL	C:\Windows\system32\TQUERY.DLL	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefdc90000	0x71000	SHLWAPI.dll	C:\Windows\system32\SHLWAPI.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefda80000	0x2e000	IMM32.dll	C:\Windows\system32\IMM32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefd970000	0x109000	MSCTF.dll	C:\Windows\system32\MSCTF.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefa580000	0x8000	MSSHooks.dll	C:\Windows\system32\MSSHooks.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fef4c50000	0x6f000	mscoree.dll	C:\Windows\system32\mscoree.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefd230000	0xf000	CRYPTBASE.dll	C:\Windows\system32\CRYPTBASE.dll	2	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefe350000	0x99000	CLBCatQ.DLL	C:\Windows\system32\CLBCatQ.DLL	1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefcbd0000	0x17000	CRYPTSP.dll	C:\Windows\system32\CRYPTSP.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefc8d0000	0x47000	rsaenh.dll	C:\Windows\system32\rsaenh.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fefd2e0000	0x14000	RpcRtRemote.dll	C:\Windows\system32\RpcRtRemote.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+1688	SearchFilterHo	0x7fef7220000	0x1d000	mssprxy.dll	C:\Windows\system32\mssprxy.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled

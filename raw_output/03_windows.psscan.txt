@@ -1,0 +1,48 @@
+Volatility 3 Framework 2.28.0
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+1068	472	SearchIndexer.	0x3e801ab0	13	710	0	False	2019-06-29 07:28:58.000000 UTC	N/A	Disabled
+1696	1068	SearchProtocol	0x3e86e910	7	225	1	False	2019-06-29 07:29:02.000000 UTC	N/A	Disabled
+1688	1068	SearchFilterHo	0x3e879890	5	78	0	False	2019-06-29 07:29:02.000000 UTC	N/A	Disabled
+2076	580	dllhost.exe	0x3e892b30	13	260	1	False	2019-06-29 07:29:02.000000 UTC	N/A	Disabled
+2272	2008	GoogleCrashHan	0x3e8f0610	7	99	0	True	2019-06-29 07:29:08.000000 UTC	N/A	Disabled
+2284	2008	GoogleCrashHan	0x3e8f6b30	7	93	0	False	2019-06-29 07:29:08.000000 UTC	N/A	Disabled
+2636	376	conhost.exe	0x3e920350	3	50	1	False	2019-06-29 07:29:25.000000 UTC	N/A	Disabled
+2728	2692	winlogon.exe	0x3e930060	6	121	2	False	2019-06-29 07:29:30.000000 UTC	N/A	Disabled
+2672	2692	csrss.exe	0x3ea94630	0	-	-	False	2019-06-29 07:29:51.000000 UTC	2019-06-29 07:29:59.000000 UTC	Disabled
+2624	1944	DumpIt.exe	0x3eaa4420	3	45	1	True	2019-06-29 07:29:25.000000 UTC	N/A	Disabled
+1908	840	dwm.exe	0x3eabbb30	5	77	1	False	2019-06-29 07:28:43.000000 UTC	N/A	Disabled
+1944	1872	explorer.exe	0x3eaf7b30	37	854	1	False	2019-06-29 07:28:44.000000 UTC	N/A	Disabled
+1592	1944	VBoxTray.exe	0x3ebabab0	13	141	1	False	2019-06-29 07:28:53.000000 UTC	N/A	Disabled
+220	472	svchost.exe	0x3ec1b890	16	323	0	False	2019-06-29 07:28:27.000000 UTC	N/A	Disabled
+484	472	svchost.exe	0x3ec45630	18	376	0	False	2019-06-29 07:28:29.000000 UTC	N/A	Disabled
+1132	472	spoolsv.exe	0x3ecaab30	15	286	0	False	2019-06-29 07:28:32.000000 UTC	N/A	Disabled
+1176	472	svchost.exe	0x3ecd7b30	21	307	0	False	2019-06-29 07:28:33.000000 UTC	N/A	Disabled
+1276	472	svchost.exe	0x3ed452e0	14	220	0	False	2019-06-29 07:28:34.000000 UTC	N/A	Disabled
+1804	472	taskhost.exe	0x3ed81b30	10	161	1	False	2019-06-29 07:28:42.000000 UTC	N/A	Disabled
+1824	864	taskeng.exe	0x3edf9630	6	82	0	False	2019-06-29 07:28:42.000000 UTC	N/A	Disabled
+2148	536	LogonUI.exe	0x3edfab30	0	-	-	False	2019-06-29 07:29:51.000000 UTC	2019-06-29 07:29:59.000000 UTC	Disabled
+328	320	csrss.exe	0x3ee57b30	11	385	0	False	2019-06-29 07:28:14.000000 UTC	N/A	Disabled
+384	320	wininit.exe	0x3ee6f760	3	75	0	False	2019-06-29 07:28:15.000000 UTC	N/A	Disabled
+412	368	winlogon.exe	0x3ee751f0	6	119	1	False	2019-06-29 07:28:15.000000 UTC	N/A	Disabled
+2700	2692	csrss.exe	0x3eeac460	7	164	2	False	2019-06-29 07:29:30.000000 UTC	N/A	Disabled
+480	384	lsass.exe	0x3eeb5940	8	582	0	False	2019-06-29 07:28:17.000000 UTC	N/A	Disabled
+488	384	lsm.exe	0x3eec1b30	12	187	0	False	2019-06-29 07:28:17.000000 UTC	N/A	Disabled
+580	472	svchost.exe	0x3ef02b30	11	358	0	False	2019-06-29 07:28:21.000000 UTC	N/A	Disabled
+640	472	VBoxService.ex	0x3ef30b30	14	137	0	False	2019-06-29 07:28:21.000000 UTC	N/A	Disabled
+708	472	svchost.exe	0x3ef43a70	7	260	0	False	2019-06-29 07:28:22.000000 UTC	N/A	Disabled
+804	472	svchost.exe	0x3efacb30	19	393	0	False	2019-06-29 07:28:23.000000 UTC	N/A	Disabled
+840	472	svchost.exe	0x3efb9b30	21	431	0	False	2019-06-29 07:28:24.000000 UTC	N/A	Disabled
+864	472	svchost.exe	0x3efc6850	37	917	0	False	2019-06-29 07:28:24.000000 UTC	N/A	Disabled
+952	804	audiodg.exe	0x3eff1060	7	131	0	False	2019-06-29 07:28:26.000000 UTC	N/A	Disabled
+472	384	services.exe	0x3f1c1b30	13	193	0	False	2019-06-29 07:28:17.000000 UTC	N/A	Disabled
+256	4	smss.exe	0x3f6af950	3	32	N/A	False	2019-06-29 07:28:07.000000 UTC	N/A	Disabled
+2976	472	taskhost.exe	0x3fc54b30	9	160	2	False	2019-06-29 07:29:36.000000 UTC	N/A	Disabled
+2572	580	dllhost.exe	0x3fc5ab30	0	-	1	False	2019-06-29 07:30:01.000000 UTC	2019-06-29 07:30:07.000000 UTC	Disabled
+3000	840	dwm.exe	0x3fc62b30	5	76	2	False	2019-06-29 07:29:36.000000 UTC	N/A	Disabled
+3012	2992	explorer.exe	0x3fcaeb30	28	677	2	False	2019-06-29 07:29:36.000000 UTC	N/A	Disabled
+2384	3012	VBoxTray.exe	0x3fceeb30	14	144	2	False	2019-06-29 07:29:37.000000 UTC	N/A	Disabled
+2432	3012	StikyNot.exe	0x3fd18b30	10	137	2	False	2019-06-29 07:29:37.000000 UTC	N/A	Disabled
+4	0	System	0x3ff5f040	79	509	N/A	False	2019-06-29 07:28:07.000000 UTC	N/A	Disabled
+376	368	csrss.exe	0x3ff67960	7	200	1	False	2019-06-29 07:28:15.000000 UTC	N/A	Disabled

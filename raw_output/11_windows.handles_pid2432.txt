@@ -1,0 +1,141 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+2432	StikyNot.exe	0xf8a0022dd720	0x4	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS
+2432	StikyNot.exe	0xf8a000214d30	0x8	Directory	0x3	KnownDlls
+2432	StikyNot.exe	0xfa8000f23bc0	0xc	File	0x100020	\Device\HarddiskVolume2\Windows\System32
+2432	StikyNot.exe	0xfa8000f306d0	0x10	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+2432	StikyNot.exe	0xfa8000f27c70	0x14	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+2432	StikyNot.exe	0xfa8000f237c0	0x18	ALPC Port	0x1f0001	-
+2432	StikyNot.exe	0xf8a002366c20	0x1c	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\SORTING\VERSIONS
+2432	StikyNot.exe	0xfa8000f30830	0x20	Mutant	0x1f0001	-
+2432	StikyNot.exe	0xf8a002366b60	0x24	Key	0x20019	MACHINE
+2432	StikyNot.exe	0xfa8000f08e90	0x28	Event	0x1f0003	-
+2432	StikyNot.exe	0xf8a002366940	0x2c	Key	0x1	MACHINE\SYSTEM\CONTROLSET001\CONTROL\SESSION MANAGER
+2432	StikyNot.exe	0xfa8000f26560	0x30	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f24230	0x34	Event	0x21f0003	-
+2432	StikyNot.exe	0xfa8001fabd00	0x38	WindowStation	0xf037f	WinSta0
+2432	StikyNot.exe	0xfa8001cd0c60	0x3c	Desktop	0xf01ff	Default
+2432	StikyNot.exe	0xfa8001fabd00	0x40	WindowStation	0xf037f	WinSta0
+2432	StikyNot.exe	0xfa8000f33280	0x44	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f22fb0	0x48	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f10fb0	0x4c	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f263a0	0x50	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f25fb0	0x54	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f12940	0x58	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f12880	0x5c	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f09380	0x60	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f25f20	0x64	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f092f0	0x68	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f09270	0x6c	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f17790	0x70	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f17710	0x74	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f17690	0x78	Event	0x1f0003	-
+2432	StikyNot.exe	0xf8a001a639e0	0x7c	Directory	0xf	BaseNamedObjects
+2432	StikyNot.exe	0xfa8000f32fb0	0x80	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f32ef0	0x84	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f32470	0x88	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f32530	0x8c	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f33b40	0x90	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f33a80	0x94	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f339c0	0x98	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f27bb0	0x9c	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f02140	0xa0	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f30420	0xa4	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f37c80	0xa8	File	0x100001	\Device\KsecDD
+2432	StikyNot.exe	0xfa8000f37a70	0xac	ALPC Port	0x1f0001	-
+2432	StikyNot.exe	0xf8a001c74c40	0xb0	Section	0x4	-
+2432	StikyNot.exe	0xfa8000f38410	0xb4	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+2432	StikyNot.exe	0xfa8000f39fb0	0xb8	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f39f20	0xbc	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f39a20	0xc0	Thread	0x1fffff	Tid 2528 Pid 2432
+2432	StikyNot.exe	0xfa8000f1bbc0	0xc4	Event	0x21f0003	-
+2432	StikyNot.exe	0xfa8000f36220	0xc8	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f38980	0xcc	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f38900	0xd0	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f343f0	0xd4	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f34350	0xd8	Mutant	0x1f0001	Shell_Sticky_Notes_Mutex
+2432	StikyNot.exe	0xfa8000f382f0	0xdc	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f39060	0xe0	Thread	0x1fffff	Tid 2524 Pid 2432
+2432	StikyNot.exe	0xfa8000e5f070	0xe4	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xf8a0014b0400	0xe8	Section	0x4	__ComCatalogCache__
+2432	StikyNot.exe	0xf8a001b6b660	0xec	Directory	0x20003	-
+2432	StikyNot.exe	0xf8a001b02860	0xf0	Section	0x4	ASqmManifestVersion
+2432	StikyNot.exe	0xf8a0023832e0	0xf4	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001_CLASSES
+2432	StikyNot.exe	0xfa8000cda4c0	0xf8	Event	0x100001	MaximumCommitCondition
+2432	StikyNot.exe	0xf8a0014b0400	0xfc	Section	0x4	__ComCatalogCache__
+2432	StikyNot.exe	0xfa8000f3a680	0x100	Event	0x100003	-
+2432	StikyNot.exe	0xfa8000f22470	0x104	Thread	0x84a	Tid 2464 Pid 2432
+2432	StikyNot.exe	0xfa8000f22470	0x108	Thread	0x84a	Tid 2464 Pid 2432
+2432	StikyNot.exe	0xfa8000f40fe0	0x10c	Semaphore	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f40f60	0x110	Semaphore	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f40ee0	0x114	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f40da0	0x118	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\KernelBase.dll.mui
+2432	StikyNot.exe	0xfa8000f3c3f0	0x11c	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f40130	0x120	Event	0x21f0003	-
+2432	StikyNot.exe	0xfa8000f3b5c0	0x124	Semaphore	0x1f0003	-
+2432	StikyNot.exe	0xf8a002387250	0x128	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001
+2432	StikyNot.exe	0xfa8000f3d810	0x12c	Mutant	0x1f0001	-
+2432	StikyNot.exe	0xfa8000f40ae0	0x130	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f3f840	0x134	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f01920	0x138	Event	0x1f0003	-
+2432	StikyNot.exe	0xf8a0022dcfc0	0x13c	Section	0x6	windows_shell_global_counters
+2432	StikyNot.exe	0xf8a00367bf60	0x140	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001_CLASSES
+2432	StikyNot.exe	0xf8a0023a1530	0x144	Key	0x1	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+2432	StikyNot.exe	0xf8a00238fee0	0x148	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\PROPERTYBAG
+2432	StikyNot.exe	0xf8a002191530	0x14c	Section	0xf0007	-
+2432	StikyNot.exe	0xfa8000f40910	0x150	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Sticky Notes\StickyNotes.snt
+2432	StikyNot.exe	0xf8a001fe4600	0x154	Section	0xf0007	-
+2432	StikyNot.exe	0xfa8000f3f620	0x158	Event	0x1f0003	OleDfRootC2773431D2FC9B33
+2432	StikyNot.exe	0xfa8000f156b0	0x15c	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f26980	0x160	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f0f5a0	0x164	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f0f520	0x168	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000e63ce0	0x16c	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000e63c60	0x170	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000ec6060	0x174	Timer	0x1f0003	-
+2432	StikyNot.exe	0xfa8001ccd8d0	0x178	Mutant	0x1f0001	-
+2432	StikyNot.exe	0xfa8001ccd830	0x17c	Mutant	0x1f0001	-
+2432	StikyNot.exe	0xfa8000eff8c0	0x180	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f21410	0x184	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000f0ffc0	0x188	Mutant	0x1f0001	-
+2432	StikyNot.exe	0xfa8000f21380	0x18c	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f0ff40	0x190	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000ec6380	0x194	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000ec62d0	0x198	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8000e54240	0x19c	EtwRegistration	0x804	-
+2432	StikyNot.exe	0xfa8001de5b60	0x1a0	Thread	0x1fffff	Tid 2484 Pid 2432
+2432	StikyNot.exe	0xfa8000f41440	0x1a4	Thread	0x1fffff	Tid 2580 Pid 2432
+2432	StikyNot.exe	0xfa8000e541b0	0x1a8	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000ee38f0	0x1ac	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000e63630	0x1b0	Thread	0x1fffff	Tid 2480 Pid 2432
+2432	StikyNot.exe	0xfa8000eae140	0x1b4	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000e612d0	0x1b8	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000e5ea10	0x1bc	Event	0x21f0003	-
+2432	StikyNot.exe	0xfa8000e5e990	0x1c0	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000efa7e0	0x1c4	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f22470	0x1c8	Thread	0x1fffff	Tid 2464 Pid 2432
+2432	StikyNot.exe	0xf8a002196530	0x1d0	KeyedEvent	0xf0003	-
+2432	StikyNot.exe	0xfa8000f15740	0x1d4	IoCompletion	0x1f0003	-
+2432	StikyNot.exe	0xfa8000e61060	0x1d8	TpWorkerFactory	0xf00ff	-
+2432	StikyNot.exe	0xfa8000f40b90	0x1dc	Timer	0x100002	-
+2432	StikyNot.exe	0xfa80013f59c0	0x1e0	Timer	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f42060	0x1e4	Thread	0x1fffff	Tid 2476 Pid 2432
+2432	StikyNot.exe	0xfa8000f42060	0x1e8	Thread	0x1fffff	Tid 2476 Pid 2432
+2432	StikyNot.exe	0xfa80013d0650	0x1ec	Timer	0x100002	-
+2432	StikyNot.exe	0xfa8000efc530	0x1f0	ALPC Port	0x1f0001	-
+2432	StikyNot.exe	0xfa8001cc86b0	0x1f4	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa80014f3880	0x1f8	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f369c0	0x1fc	ALPC Port	0x1f0001	OLE224986D21AFC4EF3930F69F7B3DD
+2432	StikyNot.exe	0xfa8000f42b60	0x200	Thread	0x1fffff	Tid 2584 Pid 2432
+2432	StikyNot.exe	0xfa8000f27910	0x204	ALPC Port	0x1f0001	-
+2432	StikyNot.exe	0xfa8001509e00	0x208	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000ecf890	0x20c	ALPC Port	0x1f0001	-
+2432	StikyNot.exe	0xfa8001cb8060	0x218	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8001cb8130	0x21c	Event	0x1f0003	-
+2432	StikyNot.exe	0xfa8000f42660	0x220	Thread	0x1fffff	Tid 2620 Pid 2432
+2432	StikyNot.exe	0xfa8000f01070	0x224	ALPC Port	0x1f0001	-
+2432	StikyNot.exe	0xf8a00238ffa0	0x228	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE\ALTERNATE SORTS
+2432	StikyNot.exe	0xf8a002185480	0x22c	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE
+2432	StikyNot.exe	0xf8a0022edd60	0x230	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LANGUAGE GROUPS

@@ -1,0 +1,18 @@
+Volatility 3 Framework 2.28.0
+
+Offset	FileFullPath	File output
+
+0xf8a00000d010		Disabled
+0xf8a000024010	\REGISTRY\MACHINE\SYSTEM	Disabled
+0xf8a00005e010	\REGISTRY\MACHINE\HARDWARE	Disabled
+0xf8a000205010	\Device\HarddiskVolume1\Boot\BCD	Disabled
+0xf8a00026a010	\SystemRoot\System32\Config\SOFTWARE	Disabled
+0xf8a0012e1010	\SystemRoot\System32\Config\DEFAULT	Disabled
+0xf8a001435010	\SystemRoot\System32\Config\SECURITY	Disabled
+0xf8a001498010	\SystemRoot\System32\Config\SAM	Disabled
+0xf8a001517410	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Disabled
+0xf8a0015a8010	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Disabled
+0xf8a0019eb010	\??\C:\Users\eminem\ntuser.dat	Disabled
+0xf8a001a49010	\??\C:\Users\eminem\AppData\Local\Microsoft\Windows\UsrClass.dat	Disabled
+0xf8a0021aa410	\??\C:\Users\SlimShady\ntuser.dat	Disabled
+0xf8a00223e010	\??\C:\Users\SlimShady\AppData\Local\Microsoft\Windows\UsrClass.dat	Disabled

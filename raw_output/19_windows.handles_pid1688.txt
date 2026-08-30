@@ -1,0 +1,82 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+1688	SearchFilterHo	0xf8a001eb7a20	0x4	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS
+1688	SearchFilterHo	0xf8a000214d30	0x8	Directory	0x3	KnownDlls
+1688	SearchFilterHo	0xfa8002279520	0xc	File	0x100020	\Device\HarddiskVolume2\Windows\System32
+1688	SearchFilterHo	0xf8a001ebdf00	0x10	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\SORTING\VERSIONS
+1688	SearchFilterHo	0xfa800227aae0	0x14	Mutant	0x1f0001	-
+1688	SearchFilterHo	0xfa800227b5b0	0x18	ALPC Port	0x1f0001	-
+1688	SearchFilterHo	0xf8a001ebde40	0x1c	Key	0x20019	MACHINE
+1688	SearchFilterHo	0xfa8002279f10	0x20	Event	0x1f0003	-
+1688	SearchFilterHo	0xf8a001eb6570	0x24	Key	0x1	MACHINE\SYSTEM\CONTROLSET001\CONTROL\SESSION MANAGER
+1688	SearchFilterHo	0xfa80022728e0	0x28	Event	0x21f0003	-
+1688	SearchFilterHo	0xfa8002216d00	0x2c	Desktop	0xc3	mssrestricteddesk
+1688	SearchFilterHo	0xfa80022154c0	0x30	WindowStation	0x11b	msswindowstation
+1688	SearchFilterHo	0xfa800227d7e0	0x34	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227d750	0x38	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227d6d0	0x3c	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227d650	0x40	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227d5d0	0x44	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227d550	0x48	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227d4d0	0x4c	Event	0x1f0003	-
+1688	SearchFilterHo	0xf8a0012fb790	0x50	Directory	0xf	BaseNamedObjects
+1688	SearchFilterHo	0xfa800227d420	0x54	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227d360	0x58	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227d2d0	0x5c	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227d220	0x60	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227e070	0x64	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227ea00	0x68	Mutant	0x1f0001	-
+1688	SearchFilterHo	0xfa800227e950	0x6c	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227ffc0	0x70	Mutant	0x1f0001	-
+1688	SearchFilterHo	0xfa8002272280	0x74	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227ee00	0x78	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227e230	0x7c	File	0x100001	\Device\KsecDD
+1688	SearchFilterHo	0xfa800227e470	0x80	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227ff40	0x84	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227fec0	0x88	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa80022708b0	0x8c	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800225a970	0x90	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa8002270820	0x94	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227b8f0	0x98	Thread	0x1fffff	Tid 1704 Pid 1688
+1688	SearchFilterHo	0xfa8002314570	0x9c	Event	0x21f0003	-
+1688	SearchFilterHo	0xf8a001ec9060	0xa0	KeyedEvent	0xf0003	-
+1688	SearchFilterHo	0xfa80022809b0	0xa4	IoCompletion	0x1f0003	-
+1688	SearchFilterHo	0xfa80022808a0	0xa8	TpWorkerFactory	0xf00ff	-
+1688	SearchFilterHo	0xfa8002280730	0xac	Timer	0x100002	-
+1688	SearchFilterHo	0xfa80022805c0	0xb0	Timer	0x1f0003	-
+1688	SearchFilterHo	0xfa800227f790	0xb4	Thread	0x1fffff	Tid 860 Pid 1688
+1688	SearchFilterHo	0xfa800227f790	0xb8	Thread	0x1fffff	Tid 860 Pid 1688
+1688	SearchFilterHo	0xfa800227f620	0xbc	Timer	0x100002	-
+1688	SearchFilterHo	0xfa8002289b60	0xc0	ALPC Port	0x1f0001	-
+1688	SearchFilterHo	0xfa80022898c0	0xc4	Event	0x1f0003	-
+1688	SearchFilterHo	0xf8a001e983e0	0xc8	Key	0x20019	MACHINE\SOFTWARE\CLASSES
+1688	SearchFilterHo	0xf8a0014b0400	0xcc	Section	0x4	__ComCatalogCache__
+1688	SearchFilterHo	0xfa8000cda4c0	0xd0	Event	0x100001	MaximumCommitCondition
+1688	SearchFilterHo	0xf8a0014b0400	0xd4	Section	0x4	__ComCatalogCache__
+1688	SearchFilterHo	0xfa800227fcc0	0xd8	ALPC Port	0x1f0001	OLE337BFCE20BEA4D58A2699BF8FA25
+1688	SearchFilterHo	0xfa80022804a0	0xdc	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa8002280b30	0xe0	EtwRegistration	0x804	-
+1688	SearchFilterHo	0xfa800227c730	0xe4	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227f1b0	0xe8	Event	0x21f0003	-
+1688	SearchFilterHo	0xfa8002289060	0xec	Thread	0x1fffff	Tid 984 Pid 1688
+1688	SearchFilterHo	0xfa800227f420	0xf0	ALPC Port	0x1f0001	-
+1688	SearchFilterHo	0xfa800228a2e0	0xf4	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800227f240	0xf8	Event	0x21f0003	-
+1688	SearchFilterHo	0xfa80022895a0	0xfc	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa8002289dc0	0x100	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa800228e670	0x108	ALPC Port	0x1f0001	-
+1688	SearchFilterHo	0xfa8002201ab0	0x204	Process	0x100000	SearchIndexer. Pid 1068
+1688	SearchFilterHo	0xfa8002210bc0	0x208	Event	0x1f0003	-
+1688	SearchFilterHo	0xfa8002212af0	0x20c	Event	0x1f0003	-
+1688	SearchFilterHo	0xf8a001df0630	0x210	Section	0xf0007	-
+1688	SearchFilterHo	0xf8a001df23d0	0x214	Section	0xf0007	-
+1688	SearchFilterHo	0xfa8002216d00	0x21c	Desktop	0x3	mssrestricteddesk
+1688	SearchFilterHo	0xfa80022154c0	0x228	WindowStation	0x11b	msswindowstation
+1688	SearchFilterHo	0xf8a0018b6fc0	0x368	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1688	SearchFilterHo	0xf8a0018b9080	0x36c	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000a.db
+1688	SearchFilterHo	0xf8a0018b6fc0	0x370	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1688	SearchFilterHo	0xf8a0018caca0	0x374	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+1688	SearchFilterHo	0xf8a0018b6fc0	0x378	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1688	SearchFilterHo	0xfa80022655a0	0xaa0	Event	0x1f0003	-

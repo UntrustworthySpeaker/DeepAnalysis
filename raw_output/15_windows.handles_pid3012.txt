@@ -1,0 +1,681 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+3012	explorer.exe	0xf8a0022d8dd0	0x4	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS
+3012	explorer.exe	0xf8a000214d30	0x8	Directory	0x3	KnownDlls
+3012	explorer.exe	0xfa8000eb0290	0xc	File	0x100020	\Device\HarddiskVolume2\Windows\System32
+3012	explorer.exe	0xfa8000eb9070	0x10	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+3012	explorer.exe	0xf8a0022db110	0x14	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\SORTING\VERSIONS
+3012	explorer.exe	0xfa8000ead570	0x18	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000eba930	0x1c	Mutant	0x1f0001	-
+3012	explorer.exe	0xf8a001fffac0	0x20	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\MSF\REGISTRATION\LISTEN
+3012	explorer.exe	0xfa8000eabaf0	0x24	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eba6f0	0x28	Event	0x21f0003	-
+3012	explorer.exe	0xfa8001fabd00	0x2c	WindowStation	0xf037f	WinSta0
+3012	explorer.exe	0xfa8001cd0c60	0x30	Desktop	0xf01ff	Default
+3012	explorer.exe	0xfa8001fabd00	0x34	WindowStation	0xf037f	WinSta0
+3012	explorer.exe	0xf8a0022cfba0	0x38	Key	0x1	MACHINE\SYSTEM\CONTROLSET001\CONTROL\SESSION MANAGER
+3012	explorer.exe	0xfa8000ebb070	0x3c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbfb0	0x40	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbef0	0x44	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbe30	0x48	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbd70	0x4c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbcb0	0x50	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbbf0	0x54	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebbb30	0x58	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eba1d0	0x5c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebbaa0	0x60	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebba20	0x64	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebb9a0	0x68	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebb920	0x6c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebb8a0	0x70	Event	0x1f0003	-
+3012	explorer.exe	0xf8a001a639e0	0x74	Directory	0xf	BaseNamedObjects
+3012	explorer.exe	0xfa8000ebb7f0	0x78	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb730	0x7c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb670	0x80	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb5b0	0x84	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb4f0	0x88	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb430	0x8c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb370	0x90	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb2b0	0x94	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb1f0	0x98	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebb130	0x9c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebc060	0xa0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebcfc0	0xa4	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000ebcf40	0xa8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebcea0	0xac	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000ebcdf0	0xb0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebcd30	0xb4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebcca0	0xb8	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ebcc20	0xbc	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ebcb70	0xc0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ebcab0	0xc4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eba820	0xc8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eba250	0xcc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eafd70	0xd0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eaffb0	0xd4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eadab0	0xd8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eaff20	0xdc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eae630	0xe0	Thread	0x1fffff	Tid 3016 Pid 3012
+3012	explorer.exe	0xfa8000eaf380	0xe4	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xf8a0022dc060	0xe8	KeyedEvent	0xf0003	-
+3012	explorer.exe	0xfa8000eaf060	0xec	IoCompletion	0x1f0003	-
+3012	explorer.exe	0xfa8000eba060	0xf0	TpWorkerFactory	0xf00ff	-
+3012	explorer.exe	0xfa8000eb9b30	0xf4	Timer	0x100002	-
+3012	explorer.exe	0xfa8000eb9920	0xf8	Timer	0x1f0003	-
+3012	explorer.exe	0xfa8000ebab60	0xfc	Thread	0x1fffff	Tid 3028 Pid 3012
+3012	explorer.exe	0xfa8000ebab60	0x100	Thread	0x1fffff	Tid 3028 Pid 3012
+3012	explorer.exe	0xfa8000ebf060	0x104	Timer	0x100002	-
+3012	explorer.exe	0xf8a0022dcfc0	0x108	Section	0x6	windows_shell_global_counters
+3012	explorer.exe	0xf8a0022d5ad0	0x10c	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001
+3012	explorer.exe	0xfa8000ebfb90	0x110	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xf8a001c74c40	0x114	Section	0x4	-
+3012	explorer.exe	0xfa8000ebc9f0	0x118	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000cbe850	0x11c	Event	0x100000	TermSrvReadyEvent
+3012	explorer.exe	0xfa8000ec0560	0x120	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001ca1740	0x124	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000e60900	0x128	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a0022e0ea0	0x12c	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+3012	explorer.exe	0xfa8000f360e0	0x130	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ec3f60	0x134	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ec3fe0	0x138	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ec39a0	0x13c	File	0x100001	\Device\KsecDD
+3012	explorer.exe	0xf8a0022df640	0x140	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+3012	explorer.exe	0xfa8000eb9620	0x144	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000ec3eb0	0x148	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ec3df0	0x14c	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a0014b0400	0x150	Section	0x4	__ComCatalogCache__
+3012	explorer.exe	0xf8a0022e0bd0	0x154	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001_CLASSES
+3012	explorer.exe	0xf8a0022d0970	0x158	Key	0x1	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+3012	explorer.exe	0xfa8000ec57d0	0x15c	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a00233da00	0x160	Key	0x8	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION
+3012	explorer.exe	0xf8a0022ddc70	0x164	Key	0x8	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS
+3012	explorer.exe	0xf8a002341fa0	0x168	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1001_CLASSES
+3012	explorer.exe	0xfa8000cda4c0	0x16c	Event	0x100001	MaximumCommitCondition
+3012	explorer.exe	0xf8a0014b0400	0x170	Section	0x4	__ComCatalogCache__
+3012	explorer.exe	0xfa8000ee2a30	0x174	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000ee4b60	0x178	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee6560	0x17c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee64a0	0x180	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee3fb0	0x184	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee3ef0	0x188	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee3e30	0x18c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee3d70	0x190	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee6410	0x194	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee3ce0	0x198	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee3c30	0x19c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee4070	0x1a0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000ee3a20	0x1a4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ec3690	0x1a8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee4450	0x1ac	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee3630	0x1b0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee3570	0x1b4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee34b0	0x1b8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ec3600	0x1bc	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee43c0	0x1c0	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee4cb0	0x1c4	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000ee7fb0	0x1c8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee7ef0	0x1cc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee7b30	0x1d0	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee5e90	0x1d4	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee5e10	0x1d8	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee5d90	0x1dc	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ee5d10	0x1e0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee5c90	0x1e4	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee5b50	0x1e8	File	0x12019f	\Device\NamedPipe\srvsvc
+3012	explorer.exe	0xfa8000ec5f20	0x1ec	Mutant	0x1f0001	-
+3012	explorer.exe	0xf8a001bdee30	0x1f0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PROPERTYBAG
+3012	explorer.exe	0xfa8000ee4950	0x1f4	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000ee54a0	0x1f8	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000ee5680	0x1fc	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001ccd7a0	0x200	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee51d0	0x204	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ee2820	0x208	ALPC Port	0x1f0001	OLED609281B98AC418F88DE24C20701
+3012	explorer.exe	0xfa8000ee1780	0x20c	Thread	0x1fffff	Tid 2136 Pid 3012
+3012	explorer.exe	0xfa8000ee55f0	0x210	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee8640	0x214	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000ee85b0	0x218	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee8060	0x21c	Thread	0x1fffff	Tid 2156 Pid 3012
+3012	explorer.exe	0xfa8001cd4e80	0x220	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001ccde80	0x224	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001ccde00	0x228	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0022d8060	0x22c	Token	0x8	-
+3012	explorer.exe	0xfa8001cc5be0	0x230	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8001cc5b60	0x234	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0016cade0	0x238	Section	0x6	windows_shell_global_counters
+3012	explorer.exe	0xf8a0023453a0	0x23c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{A990AE9F-A03B-4E80-94BC-9912D7504104}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f05330	0x240	Event	0x21f0003	-
+3012	explorer.exe	0xfa8001ccd060	0x244	Event	0x21f0003	-
+3012	explorer.exe	0xfa8001eebfe0	0x248	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8001cd7130	0x24c	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8001eebf60	0x250	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee14f0	0x254	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee22c0	0x258	File	0x12019f	\Device\NamedPipe\wkssvc
+3012	explorer.exe	0xfa8000eeb290	0x25c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ec68c0	0x260	Thread	0x1fffff	Tid 2328 Pid 3012
+3012	explorer.exe	0xf8a001b6b660	0x264	Directory	0x20003	-
+3012	explorer.exe	0xfa8000eeb390	0x268	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000ec64b0	0x26c	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001cd8410	0x270	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000ee24e0	0x274	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eebb60	0x278	Thread	0x1fffff	Tid 2240 Pid 3012
+3012	explorer.exe	0xfa8000eea6a0	0x27c	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000eea620	0x280	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eea5a0	0x284	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd8060	0x288	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd81c0	0x28c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ec7b30	0x290	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000ec7680	0x294	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eecc80	0x298	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eecbc0	0x29c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eecb30	0x2a0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eeca90	0x2a4	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000eeca10	0x2a8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eec970	0x2ac	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000eec770	0x2b0	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001c49830	0x2b4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eefe60	0x2b8	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a001b02860	0x2bc	Section	0x4	ASqmManifestVersion
+3012	explorer.exe	0xf8a002186fa0	0x2c0	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE\ALTERNATE SORTS
+3012	explorer.exe	0xf8a001fa1ec0	0x2c4	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE
+3012	explorer.exe	0xf8a002186ee0	0x2c8	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LANGUAGE GROUPS
+3012	explorer.exe	0xfa8000ebec90	0x2cc	File	0x120089	\Device\HarddiskVolume2\Windows\Fonts\StaticCache.dat
+3012	explorer.exe	0xf8a002186cf0	0x2d0	Section	0xf0005	-
+3012	explorer.exe	0xfa8000ebd2e0	0x2d4	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3
+3012	explorer.exe	0xfa8001e9ca00	0x2d8	File	0x120089	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3\comctl32.dll.mui
+3012	explorer.exe	0xfa8000ef03d0	0x2dc	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000eef5e0	0x2e0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee9a00	0x2e4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80013fc1e0	0x2e8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ee3070	0x2ec	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8001cf0850	0x2f0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ec04d0	0x2f4	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000eef070	0x2f8	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000ec1060	0x2fc	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ebeae0	0x300	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8001cc5130	0x304	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ebd1b0	0x308	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ebd450	0x30c	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ef9410	0x310	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000ef9390	0x314	Semaphore	0x100003	-
+3012	explorer.exe	0xfa8000efab70	0x318	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cc9610	0x31c	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000ee95b0	0x320	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ef0b60	0x324	Thread	0x1fffff	Tid 2012 Pid 3012
+3012	explorer.exe	0xfa8000ef97d0	0x328	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8000ef0b60	0x32c	Thread	0x2	Tid 2012 Pid 3012
+3012	explorer.exe	0xfa8000eaf880	0x330	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002367b00	0x334	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\PROPERTYBAG
+3012	explorer.exe	0xfa80014ae820	0x338	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002367fc0	0x33c	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+3012	explorer.exe	0xf8a002367fc0	0x340	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+3012	explorer.exe	0xf8a00236e5f0	0x344	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000a.db
+3012	explorer.exe	0xfa8001e444f0	0x348	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002365b10	0x34c	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+3012	explorer.exe	0xfa8000efeac0	0x350	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\Desktop
+3012	explorer.exe	0xfa8000efdb00	0x354	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\Desktop
+3012	explorer.exe	0xfa8000eeb310	0x358	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000efb4e0	0x35c	File	0x100081	\Device\HarddiskVolume2\Users\Public\Desktop
+3012	explorer.exe	0xfa8000eaf980	0x360	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000efb390	0x364	File	0x100081	\Device\HarddiskVolume2\Users\Public\Desktop
+3012	explorer.exe	0xfa8000eaf900	0x368	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000efb240	0x36c	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Burn
+3012	explorer.exe	0xfa8000efb1b0	0x370	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000efc7c0	0x374	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Burn
+3012	explorer.exe	0xfa8000efc730	0x378	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eff980	0x37c	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a00236bb70	0x380	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FILEEXTS
+3012	explorer.exe	0xfa8000effa40	0x384	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000effb00	0x388	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f32b30	0x38c	File	0x100081	\Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu
+3012	explorer.exe	0xf8a00236b740	0x390	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\PROPERTYBAG
+3012	explorer.exe	0xf8a002189ad0	0x394	Key	0x20019	USER
+3012	explorer.exe	0xfa8000f00930	0x398	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000f01dd0	0x39c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ef08d0	0x3a0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000f01d10	0x3a4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f01c50	0x3a8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f01b90	0x3ac	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f32070	0x3b0	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Start Menu
+3012	explorer.exe	0xfa8000f38550	0x3b4	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f02d40	0x3b8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f02cc0	0x3bc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f02b80	0x3c0	File	0x12019f	\Device\NamedPipe\samr
+3012	explorer.exe	0xfa8000f02490	0x3c4	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a0022d53d0	0x3c8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{905E63B6-C1BF-494E-B29C-65B732D3D21A}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f04950	0x3cc	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000f047d0	0x3d0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f04890	0x3d4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f04710	0x3d8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f04230	0x3dc	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000f02060	0x3e0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f05b80	0x3e4	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8000efc410	0x3e8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f04060	0x3ec	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8000f041a0	0x3f0	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0022ebec0	0x3f4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{33E28130-4E1E-4676-835A-98395C3BC3BB}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f04e70	0x3f8	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8000f04cb0	0x3fc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f04df0	0x404	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002374ca0	0x408	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{7B0DB17D-9CD2-4A93-9733-46CC89022E7C}\PROPERTYBAG
+3012	explorer.exe	0xfa8000eee630	0x40c	Thread	0x100000	Tid 2396 Pid 2384
+3012	explorer.exe	0xfa8000f1c490	0x410	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+3012	explorer.exe	0xf8a002351c00	0x414	Section	0xf0007	-
+3012	explorer.exe	0xfa8000f03b30	0x418	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f24c70	0x41c	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+3012	explorer.exe	0xfa8000f25bc0	0x420	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+3012	explorer.exe	0xf8a0023545f0	0x424	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{3214FAB5-9757-4298-BB61-92A9DEAA44FF}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f1c490	0x428	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+3012	explorer.exe	0xf8a002351980	0x42c	Section	0xf0007	-
+3012	explorer.exe	0xf8a002354aa0	0x430	Section	0xf0007	-
+3012	explorer.exe	0xfa8000f214d0	0x434	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+3012	explorer.exe	0xfa8000f329e0	0x438	File	0x100081	\Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu
+3012	explorer.exe	0xfa80022fb850	0x43c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f26840	0x440	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+3012	explorer.exe	0xf8a002354860	0x444	Section	0xf0007	-
+3012	explorer.exe	0xfa8000f25bc0	0x448	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+3012	explorer.exe	0xf8a002377d60	0x44c	Key	0x3001f	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\USERASSIST\{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}\COUNT
+3012	explorer.exe	0xfa8000f32740	0x450	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+3012	explorer.exe	0xfa8000f26840	0x454	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+3012	explorer.exe	0xf8a002375b90	0x458	Key	0x3001f	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\USERASSIST\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\COUNT
+3012	explorer.exe	0xfa8000f0f770	0x45c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f312d0	0x460	Mutant	0x1f0001	_SHuassist.mtx
+3012	explorer.exe	0xf8a0022ddab0	0x464	Key	0x2001f	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\SHELL
+3012	explorer.exe	0xfa8000f07d90	0x468	Mutant	0x1f0001	ZonesCounterMutex
+3012	explorer.exe	0xfa80022fbb60	0x46c	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0022db650	0x470	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_UNC_SAVEDFILECHECK
+3012	explorer.exe	0xfa8000f22d90	0x474	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+3012	explorer.exe	0xfa8000f22d90	0x478	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+3012	explorer.exe	0xfa8001cc9590	0x47c	Event	0x21f0003	-
+3012	explorer.exe	0xf8a002374d60	0x480	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{F3CE0F7C-4901-4ACC-8648-D5D44B04EF8F}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f04c30	0x484	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f06060	0x488	Thread	0x1fffff	Tid 2380 Pid 3012
+3012	explorer.exe	0xfa8000f07e30	0x48c	Event	0x21f0003	-
+3012	explorer.exe	0xf8a0022de7e0	0x490	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{2112AB0A-C86A-4FFE-A368-0DE96E47012E}\PROPERTYBAG
+3012	explorer.exe	0xf8a0022de8a0	0x494	Key	0x20019	MACHINE\SOFTWARE\POLICIES
+3012	explorer.exe	0xf8a002354fa0	0x498	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{4BD8D571-6D19-48D3-BE97-422220080E43}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f214d0	0x49c	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+3012	explorer.exe	0xfa8000eed5f0	0x4a0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xf8a002374190	0x4a4	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\POLICIES
+3012	explorer.exe	0xf8a002374be0	0x4a8	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE
+3012	explorer.exe	0xf8a0022de720	0x4ac	Key	0x20019	MACHINE\SOFTWARE
+3012	explorer.exe	0xf8a0022f84c0	0x4b0	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\1\DESKTOP
+3012	explorer.exe	0xf8a0022dd660	0x4b4	Key	0x20019	MACHINE\SOFTWARE\POLICIES\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+3012	explorer.exe	0xf8a0022deb80	0x4b8	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\POLICIES\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+3012	explorer.exe	0xf8a0022deac0	0x4bc	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+3012	explorer.exe	0xf8a002376830	0x4c0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+3012	explorer.exe	0xf8a002376770	0x4c4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE
+3012	explorer.exe	0xf8a0022f8080	0x4c8	Section	0xf0007	UrlZonesSM_SlimShady
+3012	explorer.exe	0xfa8000f08200	0x4cc	Mutant	0x1f0001	ZoneAttributeCacheCounterMutex
+3012	explorer.exe	0xf8a002374710	0x4d0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_LOCALMACHINE_LOCKDOWN
+3012	explorer.exe	0xfa8000f03780	0x4d4	Mutant	0x1f0001	ZonesCacheCounterMutex
+3012	explorer.exe	0xfa8000f08200	0x4d8	Mutant	0x1f0001	ZoneAttributeCacheCounterMutex
+3012	explorer.exe	0xfa8000f02820	0x4dc	Mutant	0x1f0001	ZonesLockedCacheCounterMutex
+3012	explorer.exe	0xf8a0022f8fa0	0x4e0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_PROTOCOL_LOCKDOWN
+3012	explorer.exe	0xfa8000f24c70	0x4e4	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+3012	explorer.exe	0xf8a0022ea060	0x4e8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{ED4824AF-DCE4-45A8-81E2-FC7965083634}\PROPERTYBAG
+3012	explorer.exe	0xf8a002367fc0	0x4ec	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+3012	explorer.exe	0xfa8000f14a70	0x4f0	Event	0x1f0003	-
+3012	explorer.exe	0xf8a001777490	0x4f4	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*{40FC8D7D-05ED-4FEB-B03B-6C100659EF5C}.2.ver0x0000000000000001.db
+3012	explorer.exe	0xf8a0022fae20	0x4f8	Key	0x2001f	USER\S-1-5-21-410795266-795571449-2132107757-1001_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL
+3012	explorer.exe	0xfa8000f08a10	0x4fc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f036e0	0x500	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000f0f9b0	0x504	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8000f0f930	0x508	Event	0x1f0003	-
+3012	explorer.exe	0xf8a00237abe0	0x50c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{18989B1D-99B5-455B-841C-AB7C74E4DDFC}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f0f1f0	0x510	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000f32890	0x514	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+3012	explorer.exe	0xf8a0022edee0	0x518	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{F38BF404-1D43-42F2-9305-67DE0B28FC23}\PROPERTYBAG
+3012	explorer.exe	0xf8a0022edca0	0x51c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f11060	0x520	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0022e8300	0x524	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{FD228CB7-AE11-4AE3-864C-16F3910AB8FE}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f0afb0	0x528	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f127f0	0x52c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eed790	0x530	Thread	0x1fffff	Tid 2264 Pid 3012
+3012	explorer.exe	0xfa8000f0e430	0x534	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f0e980	0x538	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f17dd0	0x53c	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Libraries
+3012	explorer.exe	0xfa8000f11e70	0x540	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+3012	explorer.exe	0xfa8000f11dd0	0x544	Event	0x1f0003	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterEvent
+3012	explorer.exe	0xfa8000f11d10	0x548	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_32.db!dfMaintainer
+3012	explorer.exe	0xfa8000f11c50	0x54c	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_96.db!dfMaintainer
+3012	explorer.exe	0xfa8000f11b90	0x550	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_256.db!dfMaintainer
+3012	explorer.exe	0xfa8000f11ad0	0x554	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1024.db!dfMaintainer
+3012	explorer.exe	0xfa8000f11a10	0x558	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_sr.db!dfMaintainer
+3012	explorer.exe	0xfa8000f11950	0x55c	Mutant	0x1f0001	C::Users:SlimShady:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!ThumbnailCacheInit
+3012	explorer.exe	0xfa8000f15d00	0x560	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f17c80	0x564	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Libraries
+3012	explorer.exe	0xfa8000f04b30	0x568	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f17810	0x56c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f36690	0x570	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f326b0	0x574	Event	0x21f0003	-
+3012	explorer.exe	0xf8a002347e20	0x578	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{B6EBFB86-6907-413C-9AF7-4FC2ABF07CC5}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f14b90	0x57c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f07cf0	0x580	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f32c80	0x584	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Start Menu
+3012	explorer.exe	0xfa8000f24410	0x588	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002375610	0x58c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{491E922F-5643-4AF4-A7EB-4E7A138D8174}\PROPERTYBAG
+3012	explorer.exe	0xf8a002350560	0x590	Section	0xf0007	-
+3012	explorer.exe	0xfa8000f30250	0x594	Event	0x100003	-
+3012	explorer.exe	0xf8a00237cfa0	0x598	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{A302545D-DEFF-464B-ABE8-61C8648D939B}\PROPERTYBAG
+3012	explorer.exe	0xf8a00237ab20	0x59c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{56784854-C6CB-462B-8169-88E350ACB882}\PROPERTYBAG
+3012	explorer.exe	0xf8a00237cca0	0x5a0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{2400183A-6185-49FB-A2D8-4A392A602BA3}\PROPERTYBAG
+3012	explorer.exe	0xf8a00237c760	0x5a4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{52528A6B-B9E3-4ADD-B60D-588C2DBA842D}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f13060	0x5a8	Thread	0x1fffff	Tid 2332 Pid 3012
+3012	explorer.exe	0xf8a00237fdd0	0x5ac	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\PROPERTYBAG
+3012	explorer.exe	0xfa8000f27b10	0x5b0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000e517c0	0x5b4	Event	0x1f0003	ShellDesktopSwitchEvent
+3012	explorer.exe	0xfa8000f34e10	0x5b8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd4070	0x5bc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80021ee2f0	0x5c0	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a0016f36a0	0x5c4	Section	0x4	mmGlobalPnpInfo
+3012	explorer.exe	0xf8a0023666e0	0x5c8	Key	0x1	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\DRIVERS32
+3012	explorer.exe	0xfa8000f38b30	0x5cc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800146efb0	0x5d0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f38a20	0x5d4	Event	0x1f0003	DINPUTWINMM
+3012	explorer.exe	0xfa8000f36750	0x5d8	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\wdmaud.drv.mui
+3012	explorer.exe	0xfa8000f36060	0x5dc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f12a20	0x5e0	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000f362b0	0x5e4	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000f3a070	0x5e8	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\MMDevAPI.dll.mui
+3012	explorer.exe	0xfa8000f3aaa0	0x5ec	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3a9e0	0x5f0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3a920	0x5f4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3a710	0x5f8	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000f017e0	0x5fc	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f38e70	0x600	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000f3ac90	0x604	Mutant	0x1f0001	MidiMapper_modLongMessage_RefCnt
+3012	explorer.exe	0xfa8000f3b060	0x608	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8001468840	0x60c	Event	0x100003	-
+3012	explorer.exe	0xfa8000e3c540	0x610	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cbda20	0x614	Thread	0x1fffff	Tid 704 Pid 3012
+3012	explorer.exe	0xfa8001dc5420	0x618	Event	0x1f0003	-
+3012	explorer.exe	0xfa80022fd350	0x61c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cb6350	0x620	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000e3c2a0	0x624	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f38aa0	0x628	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cbda20	0x62c	Thread	0x100000	Tid 704 Pid 3012
+3012	explorer.exe	0xfa8000f3c370	0x630	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3c2c0	0x634	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cb7e60	0x638	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000f38d30	0x63c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\batmeter.dll.mui
+3012	explorer.exe	0xfa8000ec8bd0	0x640	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8001cbda20	0x644	Thread	0x1fffff	Tid 704 Pid 3012
+3012	explorer.exe	0xfa8000c76160	0x648	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000cef4c0	0x64c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8002252070	0x650	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002260770	0x654	Event	0x1f0003	ShellReadyEvent
+3012	explorer.exe	0xfa8000f3d5b0	0x658	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cb6230	0x65c	Event	0x1f0003	-
+3012	explorer.exe	0xfa800201f810	0x660	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a0023637f0	0x664	Section	0x6	-
+3012	explorer.exe	0xfa8000f00610	0x668	Event	0x100003	-
+3012	explorer.exe	0xfa8000f00590	0x66c	Event	0x100003	-
+3012	explorer.exe	0xfa8000ed7620	0x670	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000f33930	0x674	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f07060	0x678	Thread	0x1fffff	Tid 2336 Pid 3012
+3012	explorer.exe	0xfa8000ef99d0	0x67c	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000f23070	0x680	File	0x12019f	\Device\00000043
+3012	explorer.exe	0xfa8000f0be60	0x684	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000efed10	0x688	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000c71170	0x68c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001fbce70	0x690	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000c5c0f0	0x694	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000c5ca40	0x698	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cec810	0x69c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000c5ded0	0x6a0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8002099bc0	0x6a4	File	0x12019f	\Device\WMIDataDevice
+3012	explorer.exe	0xfa8001beecc0	0x6a8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f1f630	0x6ac	WmiGuid	0x100004	-
+3012	explorer.exe	0xfa8001bf0eb0	0x6b0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cf17a0	0x6b4	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8001cbd160	0x6b8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cbbfb0	0x6bc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001c7c4c0	0x6c0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002049790	0x6c4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800230d1e0	0x6c8	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a002367fc0	0x6cc	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+3012	explorer.exe	0xfa8000c37dc0	0x6d0	Event	0x21f0003	-
+3012	explorer.exe	0xfa800232efe0	0x6d4	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001467700	0x6d8	Thread	0x1fffff	Tid 468 Pid 3012
+3012	explorer.exe	0xfa8000eff830	0x6dc	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000e4a070	0x6e0	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001431070	0x6e4	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+3012	explorer.exe	0xfa8001e9dc10	0x6ec	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000cc1ab0	0x6f0	Event	0x21f0003	-
+3012	explorer.exe	0xfa8001cb6950	0x6f4	File	0x100081	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+3012	explorer.exe	0xfa8001d47060	0x6f8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f11880	0x6fc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001e34060	0x700	Thread	0x100000	Tid 2568 Pid 3012
+3012	explorer.exe	0xfa8000e3c6e0	0x704	Event	0x21f0003	-
+3012	explorer.exe	0xfa800213b960	0x708	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd7b60	0x70c	Thread	0x1fffff	Tid 2660 Pid 3012
+3012	explorer.exe	0xfa8002120450	0x710	Event	0x21f0003	-
+3012	explorer.exe	0xfa80015d7c70	0x714	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd7b60	0x718	Thread	0x1fffff	Tid 2660 Pid 3012
+3012	explorer.exe	0xfa8000c5d3c0	0x71c	Event	0x100003	-
+3012	explorer.exe	0xfa8001e34060	0x720	Thread	0x1fffff	Tid 2568 Pid 3012
+3012	explorer.exe	0xfa8002007b20	0x724	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001c7c790	0x728	Event	0x100003	-
+3012	explorer.exe	0xfa8001cd7b60	0x72c	Thread	0x10	Tid 2660 Pid 3012
+3012	explorer.exe	0xfa8000e61220	0x730	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001e34060	0x734	Thread	0x10	Tid 2568 Pid 3012
+3012	explorer.exe	0xfa800216cd20	0x738	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cbc200	0x73c	Thread	0x1fffff	Tid 264 Pid 3012
+3012	explorer.exe	0xfa800206e5d0	0x740	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a001c96540	0x744	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\MSF\REGISTRATION\LISTEN
+3012	explorer.exe	0xfa800209a570	0x748	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002191fa0	0x74c	Key	0x20019	MACHINE
+3012	explorer.exe	0xfa800146e200	0x750	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cb8d00	0x754	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8001c77fe0	0x758	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000cdaa30	0x75c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001467700	0x760	Thread	0x10	Tid 468 Pid 3012
+3012	explorer.exe	0xfa8000f3abf0	0x764	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f065a0	0x768	Thread	0x1fffff	Tid 2400 Pid 3012
+3012	explorer.exe	0xfa8000eef530	0x76c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3f6c0	0x770	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001f6cfe0	0x774	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd0c60	0x780	Desktop	0x200bf	Default
+3012	explorer.exe	0xfa8001f75910	0x784	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f077f0	0x7b0	Thread	0x1fffff	Tid 2280 Pid 3012
+3012	explorer.exe	0xfa8001cb0c90	0x7b4	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eef690	0x7b8	Event	0x100003	-
+3012	explorer.exe	0xfa8001339660	0x7bc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001c78520	0x7ec	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001f34de0	0x80c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3b540	0x810	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cd0c60	0x814	Desktop	0x200bf	Default
+3012	explorer.exe	0xfa8000ca2d00	0x818	Mutant	0x1f0001	ALTTAB_RUNNING_MUTEX
+3012	explorer.exe	0xfa80014323b0	0x81c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80014319c0	0x820	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cb7b20	0x824	Event	0x21f0003	-
+3012	explorer.exe	0xfa8001cbd420	0x828	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001433870	0x82c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001432470	0x830	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001ca5fb0	0x834	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a0022dcfc0	0x838	Section	0x6	windows_shell_global_counters
+3012	explorer.exe	0xfa8000e3cf10	0x83c	Event	0x1f0003	-
+3012	explorer.exe	0xfa800231ea30	0x840	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8000ccca30	0x844	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001c781d0	0x848	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8001cf1d90	0x84c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001c78130	0x850	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8001c9b8b0	0x854	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001c9c950	0x858	Mutant	0x1f0001	-
+3012	explorer.exe	0xfa8001431930	0x85c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001ca5f20	0x860	Event	0x21f0003	-
+3012	explorer.exe	0xf8a00237f870	0x864	Key	0x2001f	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+3012	explorer.exe	0xfa8000edd8f0	0x868	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000cf61e0	0x86c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001c9c820	0x870	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eee430	0x874	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f0b6d0	0x878	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001f38d10	0x87c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800232fa20	0x880	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800232f960	0x884	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000eee4f0	0x888	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000e50420	0x88c	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000f3f150	0x890	Mutant	0x1f0001	_!MSFTHISTORY!_
+3012	explorer.exe	0xfa8001cf2c10	0x894	Mutant	0x1f0001	c:!users!slimshady!appdata!local!microsoft!windows!temporary internet files!content.ie5!
+3012	explorer.exe	0xfa8000e5f730	0x898	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001ced700	0x89c	Thread	0x1fffff	Tid 2564 Pid 3012
+3012	explorer.exe	0xfa8001ced560	0x8a0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001c77990	0x8a4	Thread	0x1fffff	Tid 2664 Pid 3012
+3012	explorer.exe	0xfa8000f0e4f0	0x8a8	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001c4a230	0x8ac	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000ccc4b0	0x8b0	Event	0x100003	-
+3012	explorer.exe	0xfa8001cef070	0x8b4	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+3012	explorer.exe	0xf8a00237c1d0	0x8b8	Section	0xf0007	C:_Users_SlimShady_AppData_Local_Microsoft_Windows_Temporary Internet Files_Content.IE5_index.dat_32768
+3012	explorer.exe	0xfa8001cf2b50	0x8bc	Mutant	0x1f0001	c:!users!slimshady!appdata!roaming!microsoft!windows!cookies!
+3012	explorer.exe	0xfa8000f3d6d0	0x8c0	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+3012	explorer.exe	0xf8a001ffc860	0x8c4	Section	0xf0007	C:_Users_SlimShady_AppData_Roaming_Microsoft_Windows_Cookies_index.dat_16384
+3012	explorer.exe	0xfa8001cb9290	0x8c8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cb9ef0	0x8cc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cb9e30	0x8d0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cb9d70	0x8d4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000e63580	0x8d8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cf2070	0x8dc	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001cf2cb0	0x8e0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f37430	0x8e4	Event	0x21f0003	-
+3012	explorer.exe	0xfa8000e4de60	0x8e8	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8000ef9d00	0x8ec	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8001cf2290	0x8f0	Mutant	0x100001	_!SHMSFTHISTORY!_
+3012	explorer.exe	0xfa8002165f40	0x8f4	Mutant	0x1f0001	c:!users!slimshady!appdata!local!microsoft!windows!history!history.ie5!mshist012019062920190630!
+3012	explorer.exe	0xfa8000efd5c0	0x8f8	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019062920190630\index.dat
+3012	explorer.exe	0xf8a00239b8f0	0x8fc	Section	0xf0007	C:_Users_SlimShady_AppData_Local_Microsoft_Windows_History_History.IE5_MSHist012019062920190630_index.dat_32768
+3012	explorer.exe	0xfa8000e4d470	0x900	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a00237d700	0x904	Section	0x6	windows_ie_global_counters
+3012	explorer.exe	0xfa8000e4d3b0	0x908	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000ef9070	0x90c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cf02a0	0x910	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001d49200	0x914	File	0x100080	\Device\Nsi
+3012	explorer.exe	0xfa8001cb9350	0x918	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000cf6390	0x91c	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa80021a2fc0	0x920	Mutant	0x1f0001	c:!users!slimshady!appdata!local!microsoft!windows!history!history.ie5!
+3012	explorer.exe	0xfa8000e39a20	0x924	File	0x12019f	\Device\HarddiskVolume2\Users\SlimShady\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+3012	explorer.exe	0xf8a00237aeb0	0x928	Section	0xf0007	C:_Users_SlimShady_AppData_Local_Microsoft_Windows_History_History.IE5_index.dat_32768
+3012	explorer.exe	0xfa80014672f0	0x92c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000e4d230	0x930	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000e4d2f0	0x934	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001e34060	0x938	Thread	0x1fffff	Tid 2568 Pid 3012
+3012	explorer.exe	0xfa8000f37350	0x93c	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0023b5ee0	0x940	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\SERVICES\WINSOCK2\PARAMETERS\PROTOCOL_CATALOG9
+3012	explorer.exe	0xfa8000f3e310	0x944	Event	0x1f0003	-
+3012	explorer.exe	0xf8a001e9f1b0	0x948	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\SERVICES\WINSOCK2\PARAMETERS\NAMESPACE_CATALOG5
+3012	explorer.exe	0xfa8000f3e1e0	0x94c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3e120	0x950	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cec070	0x954	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\KernelBase.dll.mui
+3012	explorer.exe	0xfa8000e4d170	0x958	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001c4ba90	0x95c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3b3e0	0x960	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001ced060	0x964	Thread	0x1fffff	Tid 2616 Pid 3012
+3012	explorer.exe	0xfa80013ccb20	0x968	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001ceddd0	0x96c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3c170	0x970	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cbdf50	0x974	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3b360	0x978	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000e614e0	0x97c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f32630	0x980	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001e44470	0x984	Event	0x1f0003	-
+3012	explorer.exe	0xfa8002161250	0x988	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000efbfe0	0x98c	Event	0x1f0003	-
+3012	explorer.exe	0xfa800231eb90	0x990	IoCompletion	0x1f0003	-
+3012	explorer.exe	0xfa8001cefa50	0x994	TpWorkerFactory	0xf00ff	-
+3012	explorer.exe	0xfa80013cca60	0x998	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3bae0	0x99c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3bb60	0x9a0	Thread	0x1fffff	Tid 2612 Pid 3012
+3012	explorer.exe	0xfa8000f3bb60	0x9a4	Thread	0x10	Tid 2612 Pid 3012
+3012	explorer.exe	0xfa8000e4d840	0x9a8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f315c0	0x9ac	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000e3f070	0x9b0	ALPC Port	0x1f0001	-
+3012	explorer.exe	0xfa8002240880	0x9b4	Event	0x1f0003	-
+3012	explorer.exe	0xfa800230eb50	0x9b8	Timer	0x1f0003	-
+3012	explorer.exe	0xfa8000f3bb60	0x9bc	Thread	0x10	Tid 2612 Pid 3012
+3012	explorer.exe	0xfa8001cec740	0x9c0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3bb60	0x9c4	Thread	0x10	Tid 2612 Pid 3012
+3012	explorer.exe	0xfa8001cec6c0	0x9c8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3bb60	0x9cc	Thread	0x10	Tid 2612 Pid 3012
+3012	explorer.exe	0xfa8000cbeeb0	0x9d0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3bb60	0x9d4	Thread	0x10	Tid 2612 Pid 3012
+3012	explorer.exe	0xfa8000f31650	0x9d8	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa800146e670	0x9dc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800146e5b0	0x9e0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800146e4f0	0x9e4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800146e430	0x9e8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001ceebe0	0x9ec	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001ceeb20	0x9f0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cbc200	0x9f4	Thread	0x10	Tid 264 Pid 3012
+3012	explorer.exe	0xfa8000e4bd70	0x9f8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cbc200	0x9fc	Thread	0x10	Tid 264 Pid 3012
+3012	explorer.exe	0xfa8001cee6b0	0xa00	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000edd970	0xa04	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000e3f2f0	0xa08	Event	0x1f0003	-
+3012	explorer.exe	0xf8a002197910	0xa0c	Key	0x10	MACHINE\SOFTWARE\MICROSOFT\WINDOWS SEARCH\CRAWLSCOPEMANAGER\WINDOWS\SYSTEMINDEX\SEARCHROOTS
+3012	explorer.exe	0xfa8001cbc200	0xa10	Thread	0x10	Tid 264 Pid 3012
+3012	explorer.exe	0xfa8001d47dd0	0xa14	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa800146a480	0xa18	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800146a690	0xa1c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002200860	0xa20	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001cee880	0xa24	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\bthprops.cpl.mui
+3012	explorer.exe	0xfa8000ef9bb0	0xa28	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa800146e730	0xa2c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa800146a540	0xa30	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002324a80	0xa34	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001d49640	0xa38	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80013f6d30	0xa3c	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a001e972e0	0xa40	Key	0x20019	MACHINE\SOFTWARE\CLASSES\APPLICATIONS\NOTEPAD.EXE
+3012	explorer.exe	0xfa8000f31440	0xa44	Event	0x21f0003	-
+3012	explorer.exe	0xfa800230eed0	0xa48	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000e4dda0	0xa4c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000c74c20	0xa50	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001d47790	0xa54	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80022cee10	0xa58	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000dac430	0xa5c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80022f48b0	0xa60	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80022f47f0	0xa64	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001d47bc0	0xa68	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001d47b00	0xa6c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8001d47a40	0xa70	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002313a30	0xa74	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002313970	0xa78	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80023138b0	0xa7c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80023137f0	0xa80	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002313730	0xa84	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa80013ff640	0xa88	Event	0x1f0003	-
+3012	explorer.exe	0xfa800215a970	0xa8c	Event	0x1f0003	-
+3012	explorer.exe	0xfa800146a3f0	0xa90	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebfa40	0xa94	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000ebf9c0	0xa98	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f35540	0xa9c	Thread	0x1fffff	Tid 2608 Pid 3012
+3012	explorer.exe	0xfa8001c7cf60	0xaa0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001d47cc0	0xab0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001e36cc0	0xac0	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000e5e360	0xac4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa800146a070	0xac8	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002200af0	0xacc	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8000f3fa20	0xad0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+3012	explorer.exe	0xfa8000f3f960	0xad4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002255340	0xad8	EtwRegistration	0x804	-
+3012	explorer.exe	0xf8a001fff160	0xadc	Key	0x10	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\HOMEGROUP\SHARINGINPROGRESS
+3012	explorer.exe	0xfa8000efaf60	0xae0	Event	0x1f0003	-
+3012	explorer.exe	0xf8a00239b740	0xae4	Key	0x10	USER\S-1-5-21-410795266-795571449-2132107757-1001\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\HOMEGROUP\PRINTERS
+3012	explorer.exe	0xfa8000f35ec0	0xae8	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f3b180	0xaec	Event	0x1f0003	ResetHomeGroupPrintersEvent_{2E23C390-6287-408E-A581-478F57DE1B8B}
+3012	explorer.exe	0xfa8001fbbe50	0xaf0	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000e61430	0xaf4	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002096140	0xaf8	Event	0x1f0003	-
+3012	explorer.exe	0xf8a0023678f0	0xafc	Key	0x11	MACHINE\SOFTWARE\MICROSOFT\FAX\CLIENT\SERVICESTARTUP
+3012	explorer.exe	0xfa8001eaeb60	0xb00	Thread	0x1fffff	Tid 2676 Pid 3012
+3012	explorer.exe	0xfa8001e98a70	0xb08	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f21b10	0xb0c	Event	0x1f0003	-
+3012	explorer.exe	0xfa8001cbc200	0xb10	Thread	0x10	Tid 264 Pid 3012
+3012	explorer.exe	0xfa8001eaeb60	0xb14	Thread	0x1fffff	Tid 2676 Pid 3012
+3012	explorer.exe	0xfa8000ef91e0	0xb1c	EtwRegistration	0x804	-
+3012	explorer.exe	0xfa8002029680	0xb20	Event	0x100003	-
+3012	explorer.exe	0xfa8001d54ac0	0xb24	Semaphore	0x1f0003	-
+3012	explorer.exe	0xfa8001433cc0	0xb28	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000eb0070	0xb2c	File	0x120196	\Device\HarddiskVolume2\Users\SLIMSH~1\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+3012	explorer.exe	0xfa8001ffba30	0xb30	Event	0x1f0003	-
+3012	explorer.exe	0xfa8000f01a40	0xb38	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac

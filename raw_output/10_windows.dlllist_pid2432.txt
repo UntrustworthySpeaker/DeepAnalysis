@@ -1,0 +1,41 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Base	Size	Name	Path	LoadCount	LoadTime	File output
+
+2432	StikyNot.exe	0xff620000	0x6b000	StikyNot.exe	C:\Windows\System32\StikyNot.exe	-1	N/A	Disabled
+2432	StikyNot.exe	0x773f0000	0x1a9000	ntdll.dll	C:\Windows\SYSTEM32\ntdll.dll	-1	N/A	Disabled
+2432	StikyNot.exe	0x772d0000	0x11f000	kernel32.dll	C:\Windows\system32\kernel32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefd6a0000	0x6b000	KERNELBASE.dll	C:\Windows\system32\KERNELBASE.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe470000	0xdb000	ADVAPI32.dll	C:\Windows\system32\ADVAPI32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefdee0000	0x9f000	msvcrt.dll	C:\Windows\system32\msvcrt.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe2c0000	0x1f000	sechost.dll	C:\Windows\SYSTEM32\sechost.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe050000	0x12d000	RPCRT4.dll	C:\Windows\system32\RPCRT4.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe550000	0x67000	GDI32.dll	C:\Windows\system32\GDI32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x771d0000	0xfa000	USER32.dll	C:\Windows\system32\USER32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe2e0000	0xe000	LPK.dll	C:\Windows\system32\LPK.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefdf80000	0xc9000	USP10.dll	C:\Windows\system32\USP10.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe970000	0xd88000	SHELL32.dll	C:\Windows\system32\SHELL32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefdc90000	0x71000	SHLWAPI.dll	C:\Windows\system32\SHLWAPI.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe760000	0x203000	ole32.dll	C:\Windows\system32\ole32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe660000	0xd7000	OLEAUT32.dll	C:\Windows\system32\OLEAUT32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefbae0000	0x1f4000	COMCTL32.dll	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\COMCTL32.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefaf40000	0xb000	slc.dll	C:\Windows\System32\slc.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefb150000	0x18000	dwmapi.dll	C:\Windows\System32\dwmapi.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefb680000	0x56000	UxTheme.dll	C:\Windows\System32\UxTheme.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefb360000	0xf2000	DUI70.dll	C:\Windows\System32\DUI70.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefb460000	0x215000	gdiplus.dll	C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a\gdiplus.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefab30000	0x12a000	WindowsCodecs.dll	C:\Windows\System32\WindowsCodecs.dll	-1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefda80000	0x2e000	IMM32.DLL	C:\Windows\system32\IMM32.DLL	4	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefd970000	0x109000	MSCTF.dll	C:\Windows\system32\MSCTF.dll	5	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefd230000	0xf000	CRYPTBASE.dll	C:\Windows\System32\CRYPTBASE.dll	2	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefb760000	0x43000	DUser.dll	C:\Windows\System32\DUser.dll	2	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefe350000	0x99000	CLBCatQ.DLL	C:\Windows\system32\CLBCatQ.DLL	1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fef3bd0000	0x1d4000	msxml3.dll	C:\Windows\System32\msxml3.dll	1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefcbd0000	0x17000	CRYPTSP.dll	C:\Windows\System32\CRYPTSP.dll	1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefc8d0000	0x47000	rsaenh.dll	C:\Windows\system32\rsaenh.dll	1	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fef39c0000	0x205000	InkObj.dll	C:\Program Files\Common Files\Microsoft Shared\Ink\InkObj.dll	2	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefb6e0000	0x19000	ATL.DLL	C:\Windows\system32\ATL.DLL	2	2019-06-29 07:29:37.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefd2e0000	0x14000	RpcRtRemote.dll	C:\Windows\System32\RpcRtRemote.dll	1	2019-06-29 07:29:38.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fef6fe0000	0xc6000	MSFTEDIT.dll	C:\Windows\System32\MSFTEDIT.dll	2	2019-06-29 07:29:38.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fef7220000	0x1d000	mssprxy.dll	C:\Windows\system32\mssprxy.dll	1	2019-06-29 07:29:38.000000 UTC	Disabled
+2432	StikyNot.exe	0x7fefaf50000	0x35000	xmllite.dll	C:\Windows\system32\xmllite.dll	1	2019-06-29 07:29:38.000000 UTC	Disabled

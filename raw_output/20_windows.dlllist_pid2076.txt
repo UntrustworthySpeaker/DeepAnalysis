@@ -1,0 +1,56 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Base	Size	Name	Path	LoadCount	LoadTime	File output
+
+2076	dllhost.exe	0xff9a0000	0x7000	DllHost.exe	C:\Windows\system32\DllHost.exe	-1	N/A	Disabled
+2076	dllhost.exe	0x773f0000	0x1a9000	ntdll.dll	C:\Windows\SYSTEM32\ntdll.dll	-1	N/A	Disabled
+2076	dllhost.exe	0x772d0000	0x11f000	kernel32.dll	C:\Windows\system32\kernel32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd6a0000	0x6b000	KERNELBASE.dll	C:\Windows\system32\KERNELBASE.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefdee0000	0x9f000	msvcrt.dll	C:\Windows\system32\msvcrt.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe760000	0x203000	ole32.dll	C:\Windows\system32\ole32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe550000	0x67000	GDI32.dll	C:\Windows\system32\GDI32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x771d0000	0xfa000	USER32.dll	C:\Windows\system32\USER32.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe2e0000	0xe000	LPK.dll	C:\Windows\system32\LPK.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefdf80000	0xc9000	USP10.dll	C:\Windows\system32\USP10.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe050000	0x12d000	RPCRT4.dll	C:\Windows\system32\RPCRT4.dll	-1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefda80000	0x2e000	IMM32.DLL	C:\Windows\system32\IMM32.DLL	2	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd970000	0x109000	MSCTF.dll	C:\Windows\system32\MSCTF.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd230000	0xf000	CRYPTBASE.dll	C:\Windows\system32\CRYPTBASE.dll	2	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe350000	0x99000	CLBCatQ.DLL	C:\Windows\system32\CLBCatQ.DLL	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe470000	0xdb000	ADVAPI32.dll	C:\Windows\system32\ADVAPI32.dll	24	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe2c0000	0x1f000	sechost.dll	C:\Windows\SYSTEM32\sechost.dll	88	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe660000	0xd7000	OLEAUT32.dll	C:\Windows\system32\OLEAUT32.dll	18	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefcbd0000	0x17000	CRYPTSP.dll	C:\Windows\system32\CRYPTSP.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefc8d0000	0x47000	rsaenh.dll	C:\Windows\system32\rsaenh.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd2e0000	0x14000	RpcRtRemote.dll	C:\Windows\system32\RpcRtRemote.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefb680000	0x56000	uxtheme.dll	C:\Windows\system32\uxtheme.dll	7	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef4ec0000	0x1aa000	PhotoViewer.dll	C:\Program Files\Windows Photo Viewer\PhotoViewer.dll	4	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe970000	0xd88000	SHELL32.dll	C:\Windows\system32\SHELL32.dll	8	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefdc90000	0x71000	SHLWAPI.dll	C:\Windows\system32\SHLWAPI.dll	20	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefc600000	0xc000	VERSION.dll	C:\Windows\system32\VERSION.dll	9	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefbac0000	0x11000	WTSAPI32.dll	C:\Windows\system32\WTSAPI32.dll	4	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefb150000	0x18000	dwmapi.dll	C:\Windows\system32\dwmapi.dll	10	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef4cc0000	0x1ff000	d3d9.dll	C:\Windows\system32\d3d9.dll	5	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefa3c0000	0x7000	d3d8thk.dll	C:\Windows\system32\d3d8thk.dll	5	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefaf40000	0xb000	slc.dll	C:\Windows\system32\slc.dll	4	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefab30000	0x12a000	WindowsCodecs.dll	C:\Windows\system32\WindowsCodecs.dll	6	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefb460000	0x215000	gdiplus.dll	C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a\gdiplus.dll	5	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefa3d0000	0x54000	OLEACC.dll	C:\Windows\system32\OLEACC.dll	4	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefbae0000	0x1f4000	Comctl32.dll	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\Comctl32.dll	6	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef7200000	0x10000	PhotoBase.dll	C:\Program Files\Windows Photo Viewer\PhotoBase.dll	2	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefb7f0000	0x12c000	propsys.dll	C:\Windows\system32\propsys.dll	5	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef5070000	0x73000	ieproxy.dll	C:\Program Files\Internet Explorer\ieproxy.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef7930000	0xee000	actxprxy.dll	C:\Windows\system32\actxprxy.dll	1	2019-06-29 07:29:02.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef4790000	0x265000	ImagingEngine.dll	C:\Program Files\Windows Photo Viewer\ImagingEngine.dll	1	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef46f0000	0x9c000	mscms.dll	C:\Windows\system32\mscms.dll	3	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefc690000	0x1e000	USERENV.dll	C:\Windows\system32\USERENV.dll	3	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd300000	0xf000	profapi.dll	C:\Windows\system32\profapi.dll	4	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefdab0000	0x1d7000	SETUPAPI.dll	C:\Windows\system32\SETUPAPI.dll	1	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd4d0000	0x36000	CFGMGR32.dll	C:\Windows\system32\CFGMGR32.dll	4	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefd510000	0x1a000	DEVOBJ.dll	C:\Windows\system32\DEVOBJ.dll	1	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef8ac0000	0xc000	LINKINFO.dll	C:\Windows\system32\LINKINFO.dll	1	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefc590000	0x2d000	ntmarta.dll	C:\Windows\system32\ntmarta.dll	1	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fefe2f0000	0x52000	WLDAP32.dll	C:\Windows\system32\WLDAP32.dll	1	2019-06-29 07:29:03.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef8aa0000	0x1f000	thumbcache.dll	C:\Windows\system32\thumbcache.dll	1	2019-06-29 07:29:04.000000 UTC	Disabled
+2076	dllhost.exe	0x775c0000	0x7000	PSAPI.DLL	C:\Windows\system32\PSAPI.DLL	1	2019-06-29 07:29:04.000000 UTC	Disabled
+2076	dllhost.exe	0x7fef4630000	0x42000	icm32.dll	C:\Windows\system32\icm32.dll	1	2019-06-29 07:29:04.000000 UTC	Disabled

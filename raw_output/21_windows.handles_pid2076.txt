@@ -1,0 +1,264 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+2076	dllhost.exe	0xf8a001ee47a0	0x4	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS
+2076	dllhost.exe	0xf8a000214d30	0x8	Directory	0x3	KnownDlls
+2076	dllhost.exe	0xfa8002290b20	0xc	File	0x100020	\Device\HarddiskVolume2\Windows\System32
+2076	dllhost.exe	0xf8a001ee6fa0	0x10	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\SORTING\VERSIONS
+2076	dllhost.exe	0xf8a001ee9e90	0x14	Key	0x1	MACHINE\SYSTEM\CONTROLSET001\CONTROL\SESSION MANAGER
+2076	dllhost.exe	0xfa80022921a0	0x18	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xfa800228aab0	0x1c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800228f8c0	0x20	Event	0x21f0003	-
+2076	dllhost.exe	0xfa8001c84970	0x24	WindowStation	0xf037f	WinSta0
+2076	dllhost.exe	0xfa8001ca37d0	0x28	Desktop	0xf01ff	Default
+2076	dllhost.exe	0xfa8001c84970	0x2c	WindowStation	0xf037f	WinSta0
+2076	dllhost.exe	0xf8a001ee9190	0x30	Key	0x20019	MACHINE
+2076	dllhost.exe	0xfa8002293720	0x34	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002293690	0x38	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002290900	0x3c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002290650	0x40	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022905d0	0x44	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002290550	0x48	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022904d0	0x4c	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a001349d40	0x50	Directory	0xf	BaseNamedObjects
+2076	dllhost.exe	0xfa8002291b60	0x54	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002291ae0	0x58	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002291670	0x5c	File	0x100001	\Device\KsecDD
+2076	dllhost.exe	0xfa80022914e0	0x60	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002291460	0x64	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022913e0	0x68	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002291360	0x6c	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a0014b0400	0x70	Section	0x4	__ComCatalogCache__
+2076	dllhost.exe	0xf8a001ee2400	0x74	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES
+2076	dllhost.exe	0xfa8002294d50	0x78	Mutant	0x1f0001	-
+2076	dllhost.exe	0xfa8002294cd0	0x7c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8000cda4c0	0x80	Event	0x100001	MaximumCommitCondition
+2076	dllhost.exe	0xf8a0014b0400	0x84	Section	0x4	__ComCatalogCache__
+2076	dllhost.exe	0xfa8002294a00	0x88	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002294980	0x8c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002294900	0x90	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002294850	0x94	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002294790	0x98	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002294700	0x9c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022939a0	0xa0	Thread	0x1fffff	Tid 2080 Pid 2076
+2076	dllhost.exe	0xf8a001eec060	0xa8	KeyedEvent	0xf0003	-
+2076	dllhost.exe	0xfa8002290420	0xac	IoCompletion	0x1f0003	-
+2076	dllhost.exe	0xfa800228fb60	0xb0	TpWorkerFactory	0xf00ff	-
+2076	dllhost.exe	0xfa8002294060	0xb4	Timer	0x100002	-
+2076	dllhost.exe	0xfa80022926f0	0xb8	Timer	0x1f0003	-
+2076	dllhost.exe	0xfa8002295060	0xbc	Thread	0x1fffff	Tid 2084 Pid 2076
+2076	dllhost.exe	0xfa8002295060	0xc0	Thread	0x1fffff	Tid 2084 Pid 2076
+2076	dllhost.exe	0xfa8002291970	0xc4	Timer	0x100002	-
+2076	dllhost.exe	0xfa8002291e60	0xc8	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xfa8002294bc0	0xcc	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002295de0	0xd0	ALPC Port	0x1f0001	OLE6E308AB3F96B417A916205958FE1
+2076	dllhost.exe	0xfa80022918f0	0xd4	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022915b0	0xd8	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002296640	0xe4	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xfa8002296980	0xe8	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002294b40	0xec	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002294ac0	0xf0	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002295580	0xf4	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002262990	0xf8	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002296fe0	0xfc	Event	0x21f0003	-
+2076	dllhost.exe	0xfa8002297ab0	0x100	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022979f0	0x104	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022977e0	0x108	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xf8a0017a3ca0	0x10c	Section	0x4	-
+2076	dllhost.exe	0xfa8002298e50	0x110	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002297b60	0x114	Thread	0x1fffff	Tid 2100 Pid 2076
+2076	dllhost.exe	0xfa8002298d50	0x118	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022984b0	0x124	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002299260	0x12c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+2076	dllhost.exe	0xfa800229a9e0	0x130	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a920	0x134	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a860	0x138	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a7a0	0x13c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a6e0	0x140	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a620	0x144	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a560	0x148	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a360	0x14c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a2a0	0x150	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229a1e0	0x154	EtwRegistration	0x804	-
+2076	dllhost.exe	0xf8a001eebe50	0x158	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000
+2076	dllhost.exe	0xf8a001eebd90	0x15c	Key	0x1	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\DIRECT3D
+2076	dllhost.exe	0xf8a001b6b660	0x160	Directory	0x20003	-
+2076	dllhost.exe	0xf8a001b02860	0x164	Section	0x4	ASqmManifestVersion
+2076	dllhost.exe	0xfa800229bf20	0x168	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002299070	0x16c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002294f20	0x170	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+2076	dllhost.exe	0xfa800229a070	0x174	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002296d50	0x178	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002296e10	0x17c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002295fe0	0x180	Event	0x100003	-
+2076	dllhost.exe	0xfa8002298970	0x184	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xfa800229ae60	0x188	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229ada0	0x18c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229ad10	0x190	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002299cb0	0x194	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xfa8002299770	0x198	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002298ca0	0x19c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xf8a001eee940	0x1a0	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES
+2076	dllhost.exe	0xfa8002298530	0x1a4	Event	0x1f0003	-
+2076	dllhost.exe	0xfa800229b670	0x1a8	Thread	0x1fffff	Tid 2108 Pid 2076
+2076	dllhost.exe	0xfa80022993b0	0x1ac	Event	0x21f0003	-
+2076	dllhost.exe	0xfa80022a5740	0x1b0	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa800229afe0	0x1b8	Event	0x1f0003	-
+2076	dllhost.exe	0xfa800229af60	0x1bc	Event	0x1f0003	-
+2076	dllhost.exe	0xfa800228d1c0	0x1c0	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022a5060	0x1c4	Thread	0x1fffff	Tid 2128 Pid 2076
+2076	dllhost.exe	0xfa800229bdc0	0x1c8	Event	0x21f0003	-
+2076	dllhost.exe	0xf8a0018d72d0	0x1cc	Section	0x6	windows_shell_global_counters
+2076	dllhost.exe	0xfa800223e130	0x1d0	File	0x120089	\Device\HarddiskVolume2\Program Files\Windows Photo Viewer\en-US\PhotoViewer.dll.mui
+2076	dllhost.exe	0xfa800228be80	0x1d4	Mutant	0x1f0001	-
+2076	dllhost.exe	0xf8a001eec880	0x1d8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PROPERTYBAG
+2076	dllhost.exe	0xf8a001eeb060	0x1dc	Key	0x1	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+2076	dllhost.exe	0xfa80022a65c0	0x1e0	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a6680	0x1e4	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a6500	0x1e8	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a6440	0x1ec	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a61c0	0x1f0	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a7070	0x1f4	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a7fb0	0x1f8	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a7f00	0x1fc	Mutant	0x1f0001	__DDrawExclMode__
+2076	dllhost.exe	0xfa80022a7d20	0x200	Mutant	0x1f0001	__DDrawCheckExclMode__
+2076	dllhost.exe	0xfa8002298dd0	0x204	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022997f0	0x208	Event	0x1f0003	-
+2076	dllhost.exe	0xfa800229bb70	0x20c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002290f10	0x210	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022a57f0	0x214	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002274640	0x218	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022a7180	0x21c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002298160	0x220	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022a8b60	0x224	Thread	0x1fffff	Tid 2140 Pid 2076
+2076	dllhost.exe	0xf8a001c2c8c0	0x228	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE
+2076	dllhost.exe	0xf8a001ef2890	0x22c	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE\ALTERNATE SORTS
+2076	dllhost.exe	0xf8a001ee2860	0x230	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LANGUAGE GROUPS
+2076	dllhost.exe	0xfa80022a9dd0	0x234	File	0x120089	\Device\HarddiskVolume2\Windows\Fonts\StaticCache.dat
+2076	dllhost.exe	0xf8a001eee840	0x238	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022a6d00	0x23c	File	0x120089	\Device\HarddiskVolume2\Windows\Fonts\segoeui.ttf
+2076	dllhost.exe	0xf8a001ee59f0	0x240	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022a7a70	0x244	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+2076	dllhost.exe	0xf8a001d0adc0	0x248	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000a.db
+2076	dllhost.exe	0xfa80022a7730	0x24c	EtwRegistration	0x804	-
+2076	dllhost.exe	0xf8a001ee57d0	0x250	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FILEEXTS
+2076	dllhost.exe	0xf8a001d0acf0	0x254	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+2076	dllhost.exe	0xf8a001d0acf0	0x258	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+2076	dllhost.exe	0xf8a001d09d00	0x25c	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+2076	dllhost.exe	0xfa80022a5a60	0x260	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022a4ae0	0x264	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022a6a30	0x268	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa8002264780	0x26c	Mutant	0x1f0001	-
+2076	dllhost.exe	0xfa80022941d0	0x270	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022646e0	0x274	Mutant	0x1f0001	-
+2076	dllhost.exe	0xfa80022a9070	0x278	ALPC Port	0x1f0001	-
+2076	dllhost.exe	0xfa80022abb60	0x27c	Thread	0x1fffff	Tid 2144 Pid 2076
+2076	dllhost.exe	0xfa800228bf20	0x280	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a0016cade0	0x284	Section	0x6	windows_shell_global_counters
+2076	dllhost.exe	0xfa80022a8920	0x288	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a001efb720	0x290	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\PROPERTYBAG
+2076	dllhost.exe	0xfa80022ac510	0x294	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022ac480	0x298	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022ad060	0x29c	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022adfe0	0x2a0	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022adf60	0x2a4	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022adee0	0x2a8	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022ade60	0x2ac	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022adde0	0x2b0	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022add60	0x2b4	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa80022adce0	0x2b8	Semaphore	0x100003	-
+2076	dllhost.exe	0xfa8002252d60	0x2bc	EtwRegistration	0x804	-
+2076	dllhost.exe	0xfa80022b2e50	0x2c0	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a001f431d0	0x2c8	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022be940	0x2cc	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022be060	0x2d0	Event	0x21f0003	-
+2076	dllhost.exe	0xfa8002297060	0x2d4	Thread	0x1fffff	Tid 2096 Pid 2076
+2076	dllhost.exe	0xfa80022b2060	0x2d8	Thread	0x1fffff	Tid 2152 Pid 2076
+2076	dllhost.exe	0xfa80022cfe90	0x2dc	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022ae1d0	0x2e0	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa80022bea60	0x2e4	Thread	0x1fffff	Tid 2160 Pid 2076
+2076	dllhost.exe	0xfa80022be8c0	0x2e8	Event	0x21f0003	-
+2076	dllhost.exe	0xfa80022c0920	0x2f0	Event	0x1f0003	-
+2076	dllhost.exe	0xfa800228efe0	0x2f4	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022cfc50	0x2f8	Event	0x100003	-
+2076	dllhost.exe	0xfa80022bbf20	0x2fc	File	0x13019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Temp\~PID8EC.tmp
+2076	dllhost.exe	0xf8a001f12fc0	0x300	Section	0xf0007	-
+2076	dllhost.exe	0xfa80022cfe10	0x304	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8000e3ded0	0x308	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022afb30	0x310	EtwRegistration	0x804	-
+2076	dllhost.exe	0xf8a001f2a3c0	0x314	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022ab980	0x318	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a00027e430	0x31c	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022c08a0	0x320	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022c07a0	0x324	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022c0820	0x328	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8001f325b0	0x32c	Semaphore	0x1f0003	-
+2076	dllhost.exe	0xfa80022c0720	0x330	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022c06a0	0x334	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022c0620	0x338	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022c05a0	0x33c	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022c1060	0x340	Thread	0x1fffff	Tid 2188 Pid 2076
+2076	dllhost.exe	0xfa80020a79b0	0x344	Event	0x1f0003	-
+2076	dllhost.exe	0xfa800222f160	0x348	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022d9800	0x34c	Thread	0x1fffff	Tid 2236 Pid 2076
+2076	dllhost.exe	0xfa80022c2b60	0x350	Thread	0x1fffff	Tid 2192 Pid 2076
+2076	dllhost.exe	0xfa80022bef60	0x354	Semaphore	0x1f0003	-
+2076	dllhost.exe	0xfa80022d4af0	0x358	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022cdf20	0x360	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa80015daa90	0x364	File	0x13019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Temp\~PID92B.tmp
+2076	dllhost.exe	0xf8a001f19d30	0x368	Section	0xf0007	-
+2076	dllhost.exe	0xfa80022cc500	0x36c	File	0x120089	\Device\HarddiskVolume2\Windows\Fonts\segoeuib.ttf
+2076	dllhost.exe	0xf8a001f1bad0	0x370	Section	0xf0005	-
+2076	dllhost.exe	0xf8a001f1b780	0x374	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022cddd0	0x378	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f1b540	0x37c	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022cd3c0	0x380	Event	0x100003	-
+2076	dllhost.exe	0xfa80022cebd0	0x384	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f22ae0	0x388	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022cea80	0x38c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f228a0	0x390	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022af840	0x394	Event	0x21f0003	-
+2076	dllhost.exe	0xf8a001f19590	0x398	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022cd070	0x39c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa80022cd280	0x3a0	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f1bdc0	0x3a4	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022ce380	0x3a8	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f23990	0x3ac	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022cd7e0	0x3b0	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f23b40	0x3b4	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022d3070	0x3b8	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa80022dab60	0x3bc	Thread	0x1fffff	Tid 2204 Pid 2076
+2076	dllhost.exe	0xfa80022d0890	0x3c0	Thread	0x1fffff	Tid 2196 Pid 2076
+2076	dllhost.exe	0xfa80021a2d00	0x3c8	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022d6b60	0x3cc	Thread	0x1fffff	Tid 2232 Pid 2076
+2076	dllhost.exe	0xfa80022cfd00	0x3d0	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022d34c0	0x3d4	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022d32e0	0x3d8	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8002190450	0x3dc	Event	0x1f0003	-
+2076	dllhost.exe	0xf8a001f2a520	0x3e0	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022d3e90	0x3e4	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa80022ce500	0x3ec	File	0x13019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Temp\~PIDAB5.tmp
+2076	dllhost.exe	0xf8a001f2a6d0	0x3f0	Section	0xf0007	-
+2076	dllhost.exe	0xfa80022d3400	0x3f4	Event	0x21f0003	-
+2076	dllhost.exe	0xfa80022d50e0	0x3f8	Event	0x1f0003	-
+2076	dllhost.exe	0xfa8001f642e0	0x3fc	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022b06f0	0x404	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022e4770	0x40c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001ee2ac0	0x410	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022cd540	0x414	Semaphore	0x1f0003	-
+2076	dllhost.exe	0xfa80022ad600	0x424	Semaphore	0x1f0003	-
+2076	dllhost.exe	0xfa80022e4950	0x430	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa8001431f50	0x468	Event	0x100003	-
+2076	dllhost.exe	0xfa80022d5460	0x470	Event	0x21f0003	-
+2076	dllhost.exe	0xfa80022d5ac0	0x474	Event	0x1f0003	-
+2076	dllhost.exe	0xfa80022e6460	0x47c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xfa80022e5a50	0x480	File	0x13019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Temp\~PIE007.tmp
+2076	dllhost.exe	0xf8a001f36eb0	0x484	Section	0xf0007	-
+2076	dllhost.exe	0xf8a001f36d80	0x488	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022e6280	0x48c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f33570	0x490	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022e7b60	0x494	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f36a20	0x498	Section	0xf0005	-
+2076	dllhost.exe	0xfa80022e7d40	0x49c	File	0x120089	\Device\HarddiskVolume2\Windows\System32\spool\drivers\color\sRGB Color Space Profile.icm
+2076	dllhost.exe	0xf8a001f360f0	0x4a0	Section	0xf0005	-

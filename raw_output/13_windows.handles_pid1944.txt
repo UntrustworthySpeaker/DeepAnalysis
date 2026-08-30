@@ -1,0 +1,849 @@
+Volatility 3 Framework 2.28.0
+
+PID	Process	Offset	HandleValue	Type	GrantedAccess	Name
+
+1944	explorer.exe	0xf8a001bf90f0	0x4	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\IMAGE FILE EXECUTION OPTIONS
+1944	explorer.exe	0xf8a000214d30	0x8	Directory	0x3	KnownDlls
+1944	explorer.exe	0xfa80020fc1d0	0xc	File	0x100020	\Device\HarddiskVolume2\Windows\System32
+1944	explorer.exe	0xfa8001d8c1c0	0x10	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_2b24536c71ed437a
+1944	explorer.exe	0xf8a001900ee0	0x14	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\SORTING\VERSIONS
+1944	explorer.exe	0xfa80020e0070	0x18	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa800211db30	0x1c	Mutant	0x1f0001	-
+1944	explorer.exe	0xf8a001969180	0x20	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\MSF\REGISTRATION\LISTEN
+1944	explorer.exe	0xfa8002134530	0x24	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002136650	0x28	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001c84970	0x2c	WindowStation	0xf037f	WinSta0
+1944	explorer.exe	0xfa8001ca37d0	0x30	Desktop	0xf01ff	Default
+1944	explorer.exe	0xfa8001c84970	0x34	WindowStation	0xf037f	WinSta0
+1944	explorer.exe	0xf8a001c5e2d0	0x38	Key	0x1	MACHINE\SYSTEM\CONTROLSET001\CONTROL\SESSION MANAGER
+1944	explorer.exe	0xfa80020dbcc0	0x3c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020da670	0x40	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d7f240	0x44	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020da840	0x48	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020de070	0x4c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002119210	0x50	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020dada0	0x54	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800210e5d0	0x58	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020ab060	0x5c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020d9290	0x60	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020d6700	0x64	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d78330	0x68	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d7b270	0x6c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002136130	0x70	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001349d40	0x74	Directory	0xf	BaseNamedObjects
+1944	explorer.exe	0xfa8001d85070	0x78	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d85130	0x7c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020b71c0	0x80	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002129da0	0x84	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002132fb0	0x88	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002132ef0	0x8c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020ad920	0x90	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020ad860	0x94	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020ad7a0	0x98	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020baa00	0x9c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001fc1f60	0xa0	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001f31c60	0xa4	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8002079a50	0xa8	Event	0x1f0003	-
+1944	explorer.exe	0xfa800210e520	0xac	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa80020ba940	0xb0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020ba880	0xb4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020dc650	0xb8	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8001d8f200	0xbc	Semaphore	0x100003	-
+1944	explorer.exe	0xfa80020ba7c0	0xc0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800212edb0	0xc4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002136280	0xc8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001faa3d0	0xcc	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020aee50	0xd0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020ca100	0xd4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002122ad0	0xd8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d84dd0	0xdc	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020fb6c0	0xe0	Thread	0x1fffff	Tid 1948 Pid 1944
+1944	explorer.exe	0xfa80020dc910	0xe4	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xf8a001c71a00	0xe8	KeyedEvent	0xf0003	-
+1944	explorer.exe	0xfa80020b8fb0	0xec	IoCompletion	0x1f0003	-
+1944	explorer.exe	0xfa80020d5e90	0xf0	TpWorkerFactory	0xf00ff	-
+1944	explorer.exe	0xfa80020b7940	0xf4	Timer	0x100002	-
+1944	explorer.exe	0xfa80021152a0	0xf8	Timer	0x1f0003	-
+1944	explorer.exe	0xfa8002125060	0xfc	Thread	0x1fffff	Tid 2036 Pid 1944
+1944	explorer.exe	0xfa8002125060	0x100	Thread	0x1fffff	Tid 2036 Pid 1944
+1944	explorer.exe	0xfa8002125560	0x104	Timer	0x100002	-
+1944	explorer.exe	0xf8a0018d72d0	0x108	Section	0x6	windows_shell_global_counters
+1944	explorer.exe	0xf8a001c3fbc0	0x10c	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000
+1944	explorer.exe	0xfa80020cbcc0	0x110	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xf8a0017a3ca0	0x114	Section	0x4	-
+1944	explorer.exe	0xfa8002122da0	0x118	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8000cbe850	0x11c	Event	0x100000	TermSrvReadyEvent
+1944	explorer.exe	0xfa80021324c0	0x120	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8001e622b0	0x124	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020a7c20	0x128	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001c72a30	0x12c	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+1944	explorer.exe	0xfa80021cf400	0x130	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020caba0	0x134	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020cac20	0x138	Event	0x1f0003	-
+1944	explorer.exe	0xfa800212a9a0	0x13c	File	0x100001	\Device\KsecDD
+1944	explorer.exe	0xf8a001c01060	0x140	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+1944	explorer.exe	0xfa8002098530	0x144	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002116fb0	0x148	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002116ef0	0x14c	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a0014b0400	0x150	Section	0x4	__ComCatalogCache__
+1944	explorer.exe	0xf8a001c586e0	0x154	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES
+1944	explorer.exe	0xf8a001bea7f0	0x158	Key	0x1	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER
+1944	explorer.exe	0xfa8002121070	0x15c	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001c82e20	0x160	Key	0x8	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION
+1944	explorer.exe	0xf8a001c8c7e0	0x164	Key	0x8	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\APPCOMPATFLAGS
+1944	explorer.exe	0xf8a00199dbb0	0x168	Key	0xf003f	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES
+1944	explorer.exe	0xfa8000cda4c0	0x16c	Event	0x100001	MaximumCommitCondition
+1944	explorer.exe	0xf8a0014b0400	0x170	Section	0x4	__ComCatalogCache__
+1944	explorer.exe	0xfa800215d7c0	0x174	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa800215ec90	0x178	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800215c7e0	0x17c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002160fb0	0x180	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002161d00	0x184	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021612e0	0x188	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800215cb00	0x18c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800215ca40	0x190	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800215bfe0	0x194	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800215eab0	0x198	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8002116320	0x19c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002161bb0	0x1a0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002169330	0x1a4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216a070	0x1a8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216afb0	0x1ac	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216aef0	0x1b0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216ae30	0x1b4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216ad70	0x1b8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216ace0	0x1bc	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800216ac60	0x1c0	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800216aa60	0x1c4	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa800216a3a0	0x1c8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800216b8c0	0x1cc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002166270	0x1d0	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800216a150	0x1d4	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800216de90	0x1d8	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800216de10	0x1dc	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800216dd90	0x1e0	Event	0x1f0003	-
+1944	explorer.exe	0xfa800216dd10	0x1e4	Event	0x1f0003	-
+1944	explorer.exe	0xfa800216dbd0	0x1e8	File	0x12019f	\Device\NamedPipe\srvsvc
+1944	explorer.exe	0xfa8001fbd1c0	0x1ec	Mutant	0x1f0001	-
+1944	explorer.exe	0xf8a001ce0660	0x1f0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PROPERTYBAG
+1944	explorer.exe	0xfa8002122b90	0x1f4	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa800218af20	0x1f8	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002187400	0x1fc	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8001ff1ac0	0x200	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002088c60	0x204	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d874f0	0x208	ALPC Port	0x1f0001	OLE591966C1DE604D3482C56F2FB4EC
+1944	explorer.exe	0xfa800216d6c0	0x20c	Thread	0x1fffff	Tid 1396 Pid 1944
+1944	explorer.exe	0xfa800218b290	0x210	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002188680	0x214	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80020da5e0	0x218	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002189b60	0x21c	Thread	0x1fffff	Tid 1404 Pid 1944
+1944	explorer.exe	0xfa8001fdacd0	0x220	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021672f0	0x224	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001fb1680	0x228	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001c1fa90	0x22c	Token	0x8	-
+1944	explorer.exe	0xfa8001f859c0	0x230	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa800216bd50	0x234	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021a2200	0x238	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b8850	0x23c	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa80021b7480	0x240	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021204d0	0x244	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021118b0	0x248	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002159060	0x24c	Thread	0x1fffff	Tid 1076 Pid 1944
+1944	explorer.exe	0xfa8001d798e0	0x250	Event	0x21f0003	-
+1944	explorer.exe	0xfa800207c7e0	0x254	Semaphore	0x100003	-
+1944	explorer.exe	0xfa80020aefe0	0x258	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800218a060	0x25c	Thread	0x1fffff	Tid 1392 Pid 1944
+1944	explorer.exe	0xfa80021b7080	0x260	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1024.db!dfMaintainer
+1944	explorer.exe	0xfa80021a8f00	0x264	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_256.db!dfMaintainer
+1944	explorer.exe	0xfa800218b360	0x268	Event	0x1f0003	-
+1944	explorer.exe	0xfa800218c070	0x26c	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8002188530	0x270	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa800218c950	0x274	Thread	0x1fffff	Tid 1256 Pid 1944
+1944	explorer.exe	0xfa80021273c0	0x278	Event	0x21f0003	-
+1944	explorer.exe	0xfa8002127340	0x27c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002127850	0x280	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021277d0	0x284	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002127750	0x288	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d7b420	0x28c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa800218c4b0	0x290	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800218dfb0	0x294	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800218def0	0x298	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800218de60	0x29c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800218ddc0	0x2a0	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa800218dd40	0x2a4	Event	0x1f0003	-
+1944	explorer.exe	0xfa800218dca0	0x2a8	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa800218daa0	0x2ac	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa800216b1b0	0x2b0	Event	0x100003	-
+1944	explorer.exe	0xf8a001b6b660	0x2b8	Directory	0x20003	-
+1944	explorer.exe	0xf8a001b02860	0x2bc	Section	0x4	ASqmManifestVersion
+1944	explorer.exe	0xfa800218d320	0x2c0	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001bf2760	0x2c4	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE\ALTERNATE SORTS
+1944	explorer.exe	0xf8a001cd8b60	0x2c8	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LOCALE
+1944	explorer.exe	0xf8a001c57880	0x2cc	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NLS\LANGUAGE GROUPS
+1944	explorer.exe	0xfa80013d8420	0x2d0	File	0x120089	\Device\HarddiskVolume2\Windows\Fonts\StaticCache.dat
+1944	explorer.exe	0xf8a001cc34e0	0x2d4	Section	0xf0005	-
+1944	explorer.exe	0xf8a001cc7800	0x2dc	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{F38BF404-1D43-42F2-9305-67DE0B28FC23}\PROPERTYBAG
+1944	explorer.exe	0xfa8002193dd0	0x2e0	File	0x120089	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3\comctl32.dll.mui
+1944	explorer.exe	0xfa8002193f20	0x2e4	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.7600.16385_en-us_106f9be843a9b4e3
+1944	explorer.exe	0xfa80021b71d0	0x2e8	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_sr.db!dfMaintainer
+1944	explorer.exe	0xfa8000e5f7b0	0x2ec	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020fe8d0	0x2f0	Event	0x100003	-
+1944	explorer.exe	0xfa8002194b60	0x2f4	Thread	0x2	Tid 1460 Pid 1944
+1944	explorer.exe	0xfa8002070120	0x2f8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8000cfabe0	0x2fc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002193bb0	0x300	Event	0x100003	-
+1944	explorer.exe	0xfa8002073070	0x304	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002192dc0	0x308	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8002098dc0	0x30c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d8f9b0	0x310	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800218c350	0x314	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8002193300	0x318	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8002193280	0x31c	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800218a6b0	0x320	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800218a630	0x324	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800218aaa0	0x328	Semaphore	0x100003	-
+1944	explorer.exe	0xfa800218aa20	0x32c	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8002191f20	0x330	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80020fed10	0x334	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020fe520	0x338	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021a0d30	0x33c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002194b60	0x340	Thread	0x1fffff	Tid 1460 Pid 1944
+1944	explorer.exe	0xfa80021a07a0	0x344	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001d0ca30	0x348	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\PROPERTYBAG
+1944	explorer.exe	0xf8a001d0acf0	0x34c	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1944	explorer.exe	0xf8a001d0acf0	0x350	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1944	explorer.exe	0xf8a001d0adc0	0x354	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x000000000000000a.db
+1944	explorer.exe	0xfa80020fd160	0x358	Event	0x100003	-
+1944	explorer.exe	0xf8a001d09d00	0x35c	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000002.db
+1944	explorer.exe	0xfa80020d6cc0	0x360	File	0x100081	\Device\HarddiskVolume2\Users\Public\Desktop
+1944	explorer.exe	0xfa8001f7a160	0x364	Event	0x1f0003	-
+1944	explorer.exe	0xfa800218ff20	0x368	File	0x100081	\Device\HarddiskVolume2\Users\Public\Desktop
+1944	explorer.exe	0xfa80021a0c30	0x36c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021914f0	0x370	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Burn
+1944	explorer.exe	0xfa8001f7a1f0	0x374	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002191970	0x378	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Burn
+1944	explorer.exe	0xfa80020d6c30	0x37c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002195850	0x380	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021a3e60	0x384	File	0x100081	\Device\HarddiskVolume2\Users\eminem\Desktop
+1944	explorer.exe	0xfa8002066400	0x388	Event	0x1f0003	-
+1944	explorer.exe	0xfa800215ad10	0x38c	File	0x100081	\Device\HarddiskVolume2\Users\eminem\Desktop
+1944	explorer.exe	0xfa80021a1330	0x390	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020981f0	0x394	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa80021923d0	0x398	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001d2dd80	0x39c	Key	0x20019	USER
+1944	explorer.exe	0xfa80021a22c0	0x3a0	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001d08ca0	0x3a4	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FILEEXTS
+1944	explorer.exe	0xfa80021a2380	0x3a8	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001910a40	0x3ac	Key	0x3001f	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\USERASSIST\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\COUNT
+1944	explorer.exe	0xf8a001d0afa0	0x3b0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\PROPERTYBAG
+1944	explorer.exe	0xfa80021a44e0	0x3b4	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa80021b72a0	0x3b8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021aa420	0x3c8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021a8bc0	0x3cc	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021acfb0	0x3d0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021acab0	0x3d4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021acd30	0x3d8	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001d67e20	0x3dc	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\PROPERTYBAG
+1944	explorer.exe	0xf8a001d40640	0x3e0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{905E63B6-C1BF-494E-B29C-65B732D3D21A}\PROPERTYBAG
+1944	explorer.exe	0xfa80021b6890	0x3e4	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021b5650	0x3e8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b06b0	0x3ec	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b5aa0	0x3f0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b67d0	0x3f4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b6270	0x3f8	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8001513420	0x3fc	Thread	0x1fffff	Tid 776 Pid 1944
+1944	explorer.exe	0xfa80021ae7d0	0x404	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021d07d0	0x408	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e49dd0	0x40c	Event	0x21f0003	-
+1944	explorer.exe	0xf8a0018b8f10	0x410	Key	0x20019	MACHINE
+1944	explorer.exe	0xfa80015fd060	0x414	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021b81c0	0x418	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021b9430	0x41c	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001d60ad0	0x420	Key	0x2001f	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\SHELL
+1944	explorer.exe	0xfa80021bc8d0	0x424	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021b91f0	0x428	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Start Menu
+1944	explorer.exe	0xfa80021bafe0	0x42c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021baea0	0x430	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Start Menu
+1944	explorer.exe	0xfa80021b8e20	0x434	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021969e0	0x438	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002146c10	0x43c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002195270	0x440	Event	0x21f0003	-
+1944	explorer.exe	0xf8a001d4d520	0x444	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{F3CE0F7C-4901-4ACC-8648-D5D44B04EF8F}\PROPERTYBAG
+1944	explorer.exe	0xfa80021a68c0	0x448	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021ba060	0x44c	Thread	0x1fffff	Tid 904 Pid 1944
+1944	explorer.exe	0xfa80021a6c80	0x450	Event	0x21f0003	-
+1944	explorer.exe	0xf8a001d67b90	0x454	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{FD228CB7-AE11-4AE3-864C-16F3910AB8FE}\PROPERTYBAG
+1944	explorer.exe	0xfa8002317e60	0x458	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80021bfd10	0x45c	File	0x100081	\Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu
+1944	explorer.exe	0xfa80021bfc80	0x460	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021be070	0x464	File	0x100081	\Device\HarddiskVolume2\ProgramData\Microsoft\Windows\Start Menu
+1944	explorer.exe	0xfa80021befe0	0x468	Event	0x1f0003	-
+1944	explorer.exe	0xfa80015dbab0	0x46c	Mutant	0x1f0001	_SHuassist.mtx
+1944	explorer.exe	0xfa80021be1d0	0x470	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001951820	0x474	Key	0x3001f	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\USERASSIST\{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}\COUNT
+1944	explorer.exe	0xf8a001d673f0	0x478	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{7B0DB17D-9CD2-4A93-9733-46CC89022E7C}\PROPERTYBAG
+1944	explorer.exe	0xfa80021d1250	0x47c	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001d6e640	0x480	Section	0xf0005	C:*ProgramData*Microsoft*Windows*Caches*{40FC8D7D-05ED-4FEB-B03B-6C100659EF5C}.2.ver0x0000000000000001.db
+1944	explorer.exe	0xfa8002178e90	0x484	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001d94e70	0x488	Key	0x1	MACHINE\SOFTWARE\MICROSOFT\WINDOWS NT\CURRENTVERSION\DRIVERS32
+1944	explorer.exe	0xfa80021e3f60	0x48c	Event	0x1f0003	-
+1944	explorer.exe	0xf8a0016f36a0	0x490	Section	0x4	mmGlobalPnpInfo
+1944	explorer.exe	0xfa80021d69a0	0x494	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\msg711.acm.mui
+1944	explorer.exe	0xfa80015fd260	0x498	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020a3310	0x49c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021abfe0	0x4a0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021c3b20	0x4a4	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001d0acf0	0x4a8	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1944	explorer.exe	0xfa80021bca20	0x4ac	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+1944	explorer.exe	0xfa80021cc940	0x4b0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021d1370	0x4b4	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\wdmaud.drv.mui
+1944	explorer.exe	0xfa80021d1070	0x4b8	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Libraries
+1944	explorer.exe	0xfa80021d05e0	0x4bc	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Libraries
+1944	explorer.exe	0xfa80021972a0	0x4c0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021cd060	0x4c4	Thread	0x1fffff	Tid 1788 Pid 1944
+1944	explorer.exe	0xfa8001e3c3f0	0x4c8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b61e0	0x4cc	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021a1810	0x4d0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021b5440	0x4d4	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+1944	explorer.exe	0xfa80021b1640	0x4d8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021b52b0	0x4dc	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021b5a10	0x4e0	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa80020aa9c0	0x4e4	Event	0x1f0003	ShellDesktopSwitchEvent
+1944	explorer.exe	0xf8a001c28ad0	0x4e8	Key	0x2001f	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL
+1944	explorer.exe	0xfa80021d11b0	0x4ec	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa80021d2070	0x4f0	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xf8a001905240	0x4f4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{A990AE9F-A03B-4E80-94BC-9912D7504104}\PROPERTYBAG
+1944	explorer.exe	0xfa80021d1760	0x4f8	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\MMDevAPI.dll.mui
+1944	explorer.exe	0xfa80021b8fe0	0x4fc	Event	0x21f0003	-
+1944	explorer.exe	0xfa80020678d0	0x500	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001933b70	0x504	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{2112AB0A-C86A-4FFE-A368-0DE96E47012E}\PROPERTYBAG
+1944	explorer.exe	0xfa80021b9160	0x508	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021c37e0	0x50c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021be560	0x510	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021a1450	0x514	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d47f20	0x518	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+1944	explorer.exe	0xf8a00192c720	0x51c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_UNC_SAVEDFILECHECK
+1944	explorer.exe	0xfa80021b4650	0x520	Mutant	0x1f0001	ZonesCounterMutex
+1944	explorer.exe	0xf8a0022ea490	0x524	Section	0xf0007	-
+1944	explorer.exe	0xfa80021b11d0	0x52c	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+1944	explorer.exe	0xfa80021b11d0	0x534	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+1944	explorer.exe	0xfa80021a8fc0	0x540	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_96.db!dfMaintainer
+1944	explorer.exe	0xfa80021ce470	0x544	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002165620	0x548	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001949e30	0x54c	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{18989B1D-99B5-455B-841C-AB7C74E4DDFC}\PROPERTYBAG
+1944	explorer.exe	0xf8a001d70610	0x550	Key	0x20019	MACHINE\SOFTWARE\POLICIES
+1944	explorer.exe	0xf8a001953060	0x554	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\POLICIES
+1944	explorer.exe	0xf8a001e16900	0x558	Section	0xf0007	-
+1944	explorer.exe	0xfa80021b71d0	0x560	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_sr.db!dfMaintainer
+1944	explorer.exe	0xfa8002189790	0x564	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+1944	explorer.exe	0xf8a001950550	0x568	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE
+1944	explorer.exe	0xf8a0017a78f0	0x56c	Key	0x20019	MACHINE\SOFTWARE
+1944	explorer.exe	0xfa80021a3780	0x570	Event	0x21f0003	-
+1944	explorer.exe	0xfa8002189790	0x57c	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+1944	explorer.exe	0xfa80021b3820	0x580	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!ThumbnailCacheInit
+1944	explorer.exe	0xfa80021a95d0	0x584	Event	0x1f0003	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterEvent
+1944	explorer.exe	0xfa8001e45300	0x588	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+1944	explorer.exe	0xfa80021af1a0	0x58c	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_32.db!dfMaintainer
+1944	explorer.exe	0xfa8001cbb430	0x590	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+1944	explorer.exe	0xfa80021a8fc0	0x594	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_96.db!dfMaintainer
+1944	explorer.exe	0xfa80021d0060	0x59c	Thread	0x1fffff	Tid 1480 Pid 1944
+1944	explorer.exe	0xf8a001924b20	0x5a0	Key	0x20019	MACHINE\SOFTWARE\POLICIES\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1944	explorer.exe	0xf8a001d487b0	0x5a4	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\POLICIES\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1944	explorer.exe	0xf8a001924be0	0x5a8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_PROTOCOL_LOCKDOWN
+1944	explorer.exe	0xf8a001d67ad0	0x5ac	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1944	explorer.exe	0xf8a001951ad0	0x5b0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1944	explorer.exe	0xf8a001d73660	0x5b4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE
+1944	explorer.exe	0xf8a0019457e0	0x5b8	Section	0xf0007	UrlZonesSM_eminem
+1944	explorer.exe	0xfa80015db970	0x5bc	Mutant	0x1f0001	ZoneAttributeCacheCounterMutex
+1944	explorer.exe	0xf8a00187cee0	0x5c0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\FEATURECONTROL\FEATURE_LOCALMACHINE_LOCKDOWN
+1944	explorer.exe	0xfa80021a9130	0x5c4	Mutant	0x1f0001	ZonesCacheCounterMutex
+1944	explorer.exe	0xfa80015db970	0x5c8	Mutant	0x1f0001	ZoneAttributeCacheCounterMutex
+1944	explorer.exe	0xfa80021a81e0	0x5cc	Mutant	0x1f0001	ZonesLockedCacheCounterMutex
+1944	explorer.exe	0xf8a001d651f0	0x5d0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{56784854-C6CB-462B-8169-88E350ACB882}\PROPERTYBAG
+1944	explorer.exe	0xfa80021cf340	0x5d4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021e5370	0x5d8	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\msacm32.dll.mui
+1944	explorer.exe	0xf8a00192a8d0	0x5dc	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{491E922F-5643-4AF4-A7EB-4E7A138D8174}\PROPERTYBAG
+1944	explorer.exe	0xf8a001d6d690	0x5e0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{33E28130-4E1E-4676-835A-98395C3BC3BB}\PROPERTYBAG
+1944	explorer.exe	0xf8a001d407a0	0x5e4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{B6EBFB86-6907-413C-9AF7-4FC2ABF07CC5}\PROPERTYBAG
+1944	explorer.exe	0xf8a001922d90	0x5e8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{2400183A-6185-49FB-A2D8-4A392A602BA3}\PROPERTYBAG
+1944	explorer.exe	0xfa80021bbb60	0x5ec	Thread	0x1fffff	Tid 1492 Pid 1944
+1944	explorer.exe	0xf8a001936150	0x5f0	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{52528A6B-B9E3-4ADD-B60D-588C2DBA842D}\PROPERTYBAG
+1944	explorer.exe	0xf8a00198ead0	0x5f4	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{A302545D-DEFF-464B-ABE8-61C8648D939B}\PROPERTYBAG
+1944	explorer.exe	0xf8a001936060	0x5f8	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{4BD8D571-6D19-48D3-BE97-422220080E43}\PROPERTYBAG
+1944	explorer.exe	0xf8a001d65060	0x5fc	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{3214FAB5-9757-4298-BB61-92A9DEAA44FF}\PROPERTYBAG
+1944	explorer.exe	0xf8a001957fa0	0x600	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{ED4824AF-DCE4-45A8-81E2-FC7965083634}\PROPERTYBAG
+1944	explorer.exe	0xf8a001784d50	0x604	Key	0x20019	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\FOLDERDESCRIPTIONS\{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\PROPERTYBAG
+1944	explorer.exe	0xfa80021cf280	0x608	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b8da0	0x60c	Event	0x21f0003	-
+1944	explorer.exe	0xfa800215b2d0	0x610	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021cf1f0	0x614	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021d1980	0x618	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa80021a73c0	0x61c	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8001e7ee10	0x620	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021db450	0x624	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\imaadp32.acm.mui
+1944	explorer.exe	0xfa80021cda80	0x628	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002140a80	0x62c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021de6f0	0x630	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\msgsm32.acm.mui
+1944	explorer.exe	0xfa8001dfb060	0x634	Thread	0x1fffff	Tid 1400 Pid 1944
+1944	explorer.exe	0xfa80021de350	0x638	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\msadp32.acm.mui
+1944	explorer.exe	0xfa8002082e00	0x63c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021bb060	0x640	Thread	0x1fffff	Tid 1488 Pid 1944
+1944	explorer.exe	0xfa80021ae850	0x644	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8002197b60	0x648	Thread	0x100000	Tid 1720 Pid 1592
+1944	explorer.exe	0xf8a0018d72d0	0x64c	Section	0x6	windows_shell_global_counters
+1944	explorer.exe	0xfa80020361c0	0x650	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021e3e20	0x654	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\l3codeca.acm.mui
+1944	explorer.exe	0xfa8001edd1c0	0x658	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001eda110	0x65c	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80015dba10	0x660	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e47c80	0x664	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021d1d00	0x668	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\batmeter.dll.mui
+1944	explorer.exe	0xfa8001e3a240	0x66c	Event	0x1f0003	ShellReadyEvent
+1944	explorer.exe	0xfa8001e46340	0x670	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002197a20	0x674	File	0x12019f	\Device\00000043
+1944	explorer.exe	0xfa8001e38330	0x678	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021f0ee0	0x67c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021f0e30	0x680	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e383b0	0x684	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa80021d0060	0x688	Thread	0x100000	Tid 1480 Pid 1944
+1944	explorer.exe	0xfa80021c1060	0x68c	Thread	0x1fffff	Tid 1516 Pid 1944
+1944	explorer.exe	0xfa8001e84660	0x690	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021dbf20	0x694	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8001e993b0	0x698	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021af1a0	0x69c	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_32.db!dfMaintainer
+1944	explorer.exe	0xfa8002104f20	0x6a0	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+1944	explorer.exe	0xf8a001f0f690	0x6a4	Section	0xf0007	-
+1944	explorer.exe	0xfa8001e623e0	0x6a8	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001ffc900	0x6ac	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\COMMANDSTORE\SHELL\WINDOWS.INCLUDEINLIBRARY
+1944	explorer.exe	0xfa80020465f0	0x6b4	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002045b60	0x6b8	Thread	0x1fffff	Tid 908 Pid 1944
+1944	explorer.exe	0xf8a001e42300	0x6bc	Section	0xf0007	-
+1944	explorer.exe	0xfa80021b3820	0x6c4	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!ThumbnailCacheInit
+1944	explorer.exe	0xfa8002305b80	0x6c8	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+1944	explorer.exe	0xfa80022ab250	0x6d0	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+1944	explorer.exe	0xfa80023058a0	0x6d8	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+1944	explorer.exe	0xfa80021a8f00	0x6dc	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_256.db!dfMaintainer
+1944	explorer.exe	0xfa80022da350	0x6e0	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+1944	explorer.exe	0xf8a001f8c6f0	0x6e8	Key	0x20019	MACHINE\SYSTEM\CONTROLSET001\CONTROL\NETWORKPROVIDER\HWORDER
+1944	explorer.exe	0xfa8001ea4ae0	0x6ec	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021e4710	0x6f0	Thread	0x1fffff	Tid 1880 Pid 1944
+1944	explorer.exe	0xfa8001f331b0	0x6f4	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001da92c0	0x6f8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020d7160	0x6fc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020a9130	0x700	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e85a70	0x704	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021ce5d0	0x708	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021d0060	0x70c	Thread	0x1fffff	Tid 1480 Pid 1944
+1944	explorer.exe	0xfa8001ea49e0	0x710	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e8e060	0x714	Thread	0x1fffff	Tid 1304 Pid 1944
+1944	explorer.exe	0xfa8001e9e9c0	0x718	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e903a0	0x71c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001df89a0	0x724	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001dabcc0	0x728	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021d83c0	0x72c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e7b7e0	0x730	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d318d0	0x734	File	0x12019f	\Device\WMIDataDevice
+1944	explorer.exe	0xfa8001e467b0	0x738	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021bf8c0	0x73c	WmiGuid	0x100004	-
+1944	explorer.exe	0xfa80021d8340	0x740	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e218b0	0x744	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002022670	0x748	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8001de85e0	0x74c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002120ae0	0x750	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e49e60	0x754	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d55be0	0x758	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001edafb0	0x75c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edab20	0x760	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001de8360	0x764	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e9ea50	0x768	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001d0acf0	0x76c	Section	0x4	C:*ProgramData*Microsoft*Windows*Caches*cversions.2.ro
+1944	explorer.exe	0xfa8002044dd0	0x770	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+1944	explorer.exe	0xfa80015dbb50	0x774	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021eedc0	0x778	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+1944	explorer.exe	0xfa80021e1330	0x77c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021eed00	0x780	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001d732b0	0x784	Thread	0x100000	Tid 608 Pid 1944
+1944	explorer.exe	0xfa8001d55c60	0x788	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001d732b0	0x78c	Thread	0x1fffff	Tid 608 Pid 1944
+1944	explorer.exe	0xfa8001513420	0x790	Thread	0x1fffff	Tid 776 Pid 1944
+1944	explorer.exe	0xfa80021ce740	0x794	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e99dd0	0x798	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edaa90	0x79c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021ef460	0x7a0	Thread	0x1fffff	Tid 1484 Pid 1944
+1944	explorer.exe	0xfa80021e1fe0	0x7a4	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001ea6750	0x7a8	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001967fa0	0x7ac	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\MSF\REGISTRATION\LISTEN
+1944	explorer.exe	0xfa800211a760	0x7b0	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001dce5b0	0x7b4	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021a95d0	0x7b8	Event	0x1f0003	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterEvent
+1944	explorer.exe	0xfa8001448a80	0x7bc	Event	0x100003	-
+1944	explorer.exe	0xfa8000e41660	0x7c0	Thread	0x1fffff	Tid 2460 Pid 1944
+1944	explorer.exe	0xfa8001513420	0x7c4	Thread	0x10	Tid 776 Pid 1944
+1944	explorer.exe	0xfa8001e30820	0x7c8	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa80022eae10	0x7cc	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa8002006270	0x7d0	File	0x12019f	\Device\NamedPipe\samr
+1944	explorer.exe	0xfa8001e38cd0	0x7d4	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d732b0	0x7d8	Thread	0x10	Tid 608 Pid 1944
+1944	explorer.exe	0xfa8001d03e60	0x7dc	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80021b7080	0x7e0	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1024.db!dfMaintainer
+1944	explorer.exe	0xfa8001e49cc0	0x7e4	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021f09c0	0x7e8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001dfb060	0x7ec	Thread	0x10	Tid 1400 Pid 1944
+1944	explorer.exe	0xfa8001dceb60	0x7f0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edc1b0	0x7f4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021f0570	0x7f8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002117ec0	0x7fc	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa8001510de0	0x804	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001ca37d0	0x808	Desktop	0x200bf	Default
+1944	explorer.exe	0xfa80015106d0	0x80c	Mutant	0x1f0001	ALTTAB_RUNNING_MUTEX
+1944	explorer.exe	0xfa8001510630	0x810	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001edc7c0	0x814	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021f0a60	0x818	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edbfb0	0x81c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edbbc0	0x820	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edbb00	0x824	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edba40	0x828	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021f0fe0	0x82c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021ff170	0x830	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8001ddae00	0x834	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001510f30	0x838	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8001edb630	0x83c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001510e90	0x840	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8001e08240	0x844	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001dcee10	0x848	Mutant	0x1f0001	-
+1944	explorer.exe	0xfa8001edb5b0	0x84c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001edb530	0x850	Event	0x21f0003	-
+1944	explorer.exe	0xf8a0016cade0	0x854	Section	0x6	windows_shell_global_counters
+1944	explorer.exe	0xfa8001edbf20	0x858	Event	0x21f0003	-
+1944	explorer.exe	0xfa80021f11b0	0x85c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021f1510	0x860	Thread	0x1fffff	Tid 1144 Pid 1944
+1944	explorer.exe	0xfa8001edbea0	0x864	Event	0x1f0003	-
+1944	explorer.exe	0xfa80013fb8d0	0x868	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80021ffd70	0x86c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002202990	0x870	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021f36a0	0x874	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001edb7c0	0x878	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002201a00	0x87c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021ef460	0x880	Thread	0x10	Tid 1484 Pid 1944
+1944	explorer.exe	0xfa80021f2c50	0x884	Timer	0x1f0003	-
+1944	explorer.exe	0xfa800220b780	0x888	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800220b6c0	0x88c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800220b600	0x890	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800220b540	0x894	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800220b480	0x898	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800220b3c0	0x89c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021fde60	0x8a0	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8001514dc0	0x8a4	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001edb4b0	0x8a8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021fd300	0x8ac	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80021fddd0	0x8b0	Event	0x100003	-
+1944	explorer.exe	0xfa8001ea6a70	0x8b4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002259070	0x8b8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021ef460	0x8bc	Thread	0x10	Tid 1484 Pid 1944
+1944	explorer.exe	0xfa80021f3270	0x8c0	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002215870	0x8c4	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa800221ace0	0x8c8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002220e60	0x8cc	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8002325ab0	0x8d0	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+1944	explorer.exe	0xfa8000e456a0	0x8d4	Event	0x1f0003	-
+1944	explorer.exe	0xfa800220cb10	0x8d8	File	0x100080	\Device\Nsi
+1944	explorer.exe	0xfa80021fd070	0x8dc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800220d320	0x8e0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021fdd50	0x8e4	Event	0x1f0003	-
+1944	explorer.exe	0xfa800220bd60	0x8e8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002237cc0	0x8ec	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002218370	0x8f0	Event	0x21f0003	-
+1944	explorer.exe	0xfa8001d732b0	0x8f4	Thread	0x1fffff	Tid 608 Pid 1944
+1944	explorer.exe	0xf8a001e9e8a0	0x8f8	Section	0xf0007	-
+1944	explorer.exe	0xfa8001dd9b00	0x8fc	Event	0x100003	-
+1944	explorer.exe	0xf8a002365e00	0x900	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\10\SHELL
+1944	explorer.exe	0xfa8001e45300	0x904	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+1944	explorer.exe	0xf8a001d55f70	0x908	Section	0xf0007	-
+1944	explorer.exe	0xf8a001efa760	0x90c	Section	0xf0007	-
+1944	explorer.exe	0xfa80021fda10	0x910	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\KernelBase.dll.mui
+1944	explorer.exe	0xfa8002233e60	0x914	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021e4710	0x918	Thread	0x1fffff	Tid 1880 Pid 1944
+1944	explorer.exe	0xfa8002220d20	0x91c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80022394c0	0x920	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002238220	0x924	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002237e70	0x928	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002237250	0x92c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002238370	0x930	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002236b30	0x934	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800223acf0	0x938	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223ac70	0x93c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223abf0	0x940	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223ab70	0x944	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223aaf0	0x948	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223aa70	0x94c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223a960	0x950	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223a8b0	0x954	IoCompletion	0x1f0003	-
+1944	explorer.exe	0xfa800223a7a0	0x958	TpWorkerFactory	0xf00ff	-
+1944	explorer.exe	0xfa8000cfaf30	0x95c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800223a180	0x960	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223a2a0	0x964	Thread	0x1fffff	Tid 1996 Pid 1944
+1944	explorer.exe	0xfa800223a2a0	0x968	Thread	0x10	Tid 1996 Pid 1944
+1944	explorer.exe	0xfa80021ee8e0	0x96c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001dcc810	0x970	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa800221ca40	0x974	Event	0x1f0003	-
+1944	explorer.exe	0xfa800221a410	0x978	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223a2a0	0x97c	Thread	0x10	Tid 1996 Pid 1944
+1944	explorer.exe	0xfa8002214750	0x980	Event	0x100003	-
+1944	explorer.exe	0xfa800221b9a0	0x984	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223a2a0	0x988	Thread	0x10	Tid 1996 Pid 1944
+1944	explorer.exe	0xfa800213af60	0x98c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800223a2a0	0x990	Thread	0x10	Tid 1996 Pid 1944
+1944	explorer.exe	0xfa8001dfa290	0x994	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800223a2a0	0x998	Thread	0x10	Tid 1996 Pid 1944
+1944	explorer.exe	0xfa8001dd0c80	0x99c	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002238160	0x9a0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e5a8d0	0x9a4	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d9fce0	0x9a8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002236dd0	0x9ac	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e1cdf0	0x9b0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001dc7c50	0x9b4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001dc96b0	0x9b8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001ecea40	0x9bc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800215e810	0x9c0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002237070	0x9c4	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\bthprops.cpl.mui
+1944	explorer.exe	0xfa8002252fe0	0x9c8	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001e60340	0x9cc	Key	0x10	MACHINE\SOFTWARE\MICROSOFT\WINDOWS SEARCH\CRAWLSCOPEMANAGER\WINDOWS\SYSTEMINDEX\SEARCHROOTS
+1944	explorer.exe	0xfa8002254ab0	0x9d0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002255230	0x9d4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80015da280	0x9d8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002255e60	0x9dc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225bf20	0x9e0	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa8002259750	0x9e4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80022599d0	0x9e8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225d070	0x9ec	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225ddf0	0x9f0	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225db70	0x9f4	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225d8f0	0x9f8	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225d670	0x9fc	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225d3f0	0xa00	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225d170	0xa04	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225efb0	0xa08	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225ed30	0xa0c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225eab0	0xa10	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225e830	0xa14	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225e5b0	0xa18	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225e330	0xa1c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225e270	0xa20	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225fdf0	0xa24	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800225fb70	0xa28	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002259c90	0xa2c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800225ac30	0xa30	Event	0x1f0003	-
+1944	explorer.exe	0xfa800225abb0	0xa34	Event	0x1f0003	-
+1944	explorer.exe	0xfa800225c220	0xa38	Event	0x1f0003	-
+1944	explorer.exe	0xfa800225c1a0	0xa3c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002260060	0xa40	Thread	0x1fffff	Tid 912 Pid 1944
+1944	explorer.exe	0xfa800225f370	0xa50	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002261b80	0xa60	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002263d10	0xa64	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800223b780	0xa68	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002262fb0	0xa6c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002263bc0	0xa70	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xf8a001e83240	0xa74	Key	0x10	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\HOMEGROUP\SHARINGINPROGRESS
+1944	explorer.exe	0xfa8002255dd0	0xa78	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001bf9670	0xa7c	Key	0x10	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\HOMEGROUP\PRINTERS
+1944	explorer.exe	0xfa8002262f20	0xa80	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002255950	0xa84	Event	0x1f0003	ResetHomeGroupPrintersEvent_{2CEA41B3-ED80-4B1E-A30F-F9DAA9DF51E5}
+1944	explorer.exe	0xfa80021ef460	0xa88	Thread	0x10	Tid 1484 Pid 1944
+1944	explorer.exe	0xfa80022605b0	0xa8c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80022639b0	0xa90	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001efecf0	0xa94	Section	0xf0007	C:_Users_eminem_AppData_Local_Microsoft_Windows_Temporary Internet Files_Content.IE5_index.dat_32768
+1944	explorer.exe	0xf8a001f997b0	0xa98	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS\ZONEMAP
+1944	explorer.exe	0xfa8001cb35c0	0xa9c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800225f890	0xaa0	Event	0x1f0003	-
+1944	explorer.exe	0xf8a0001c0780	0xaa4	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS\ZONEMAP
+1944	explorer.exe	0xfa80022632c0	0xaa8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022bf190	0xaac	Semaphore	0x1f0003	-
+1944	explorer.exe	0xfa80021ef460	0xab0	Thread	0x10	Tid 1484 Pid 1944
+1944	explorer.exe	0xfa80022e83c0	0xab8	File	0x100081	\Device\HarddiskVolume2\Users\eminem\Links
+1944	explorer.exe	0xfa80022af4a0	0xabc	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+1944	explorer.exe	0xfa8002298ed0	0xac0	Event	0x1f0003	-
+1944	explorer.exe	0xf8a0022fcb00	0xac4	Section	0xf0007	-
+1944	explorer.exe	0xfa8002303850	0xac8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022db220	0xacc	File	0x100081	\Device\HarddiskVolume2\
+1944	explorer.exe	0xfa8001cbb430	0xad0	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+1944	explorer.exe	0xfa8002262270	0xad4	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020fb170	0xad8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022ebf20	0xadc	File	0x120089	\Device\HarddiskVolume2\Windows\System32\en-US\urlmon.dll.mui
+1944	explorer.exe	0xfa80020696d0	0xae0	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002313ae0	0xae4	Event	0x21f0003	-
+1944	explorer.exe	0xf8a001eacee0	0xaec	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa800227df20	0xaf8	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80022786a0	0xafc	Event	0x100003	-
+1944	explorer.exe	0xf8a001c0d7e0	0xb04	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\10\SHELL
+1944	explorer.exe	0xfa800227f070	0xb08	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa800227c970	0xb0c	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa800228a8c0	0xb14	File	0x120196	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+1944	explorer.exe	0xfa8002280a70	0xb18	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80020b64a0	0xb1c	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8002312060	0xb20	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022dbd30	0xb24	Semaphore	0x100003	-
+1944	explorer.exe	0xf8a001e57a10	0xb28	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa800213ad80	0xb30	File	0x100081	\Device\CdRom0\
+1944	explorer.exe	0xfa80020b8130	0xb34	Event	0x1f0003	-
+1944	explorer.exe	0xfa800213c1c0	0xb3c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020dde90	0xb40	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001da8b30	0xb44	Event	0x100003	-
+1944	explorer.exe	0xfa80021d6e90	0xb48	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020fa380	0xb4c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d033f0	0xb50	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+1944	explorer.exe	0xfa80022fc590	0xb54	File	0x100081	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+1944	explorer.exe	0xfa800228ffe0	0xb58	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021f27d0	0xb5c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800231ede0	0xb60	Event	0x1f0003	-
+1944	explorer.exe	0xfa800218eca0	0xb64	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002304110	0xb68	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001ccc730	0xb6c	Event	0x100003	-
+1944	explorer.exe	0xfa80021a8f00	0xb70	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_256.db!dfMaintainer
+1944	explorer.exe	0xfa800228f060	0xb74	Thread	0x1fffff	Tid 2072 Pid 1944
+1944	explorer.exe	0xfa80021f07e0	0xb78	EtwRegistration	0x804	-
+1944	explorer.exe	0xf8a001efbe40	0xb7c	Key	0x2001f	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\INTERNET SETTINGS
+1944	explorer.exe	0xf8a001ee72f0	0xb80	Key	0x11	MACHINE\SOFTWARE\MICROSOFT\FAX\CLIENT\SERVICESTARTUP
+1944	explorer.exe	0xfa80022a8380	0xb84	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa80022506f0	0xb88	Event	0x1f0003	-
+1944	explorer.exe	0xfa800228a1c0	0xb8c	Event	0x1f0003	-
+1944	explorer.exe	0xfa800228f060	0xb90	Thread	0x1fffff	Tid 2072 Pid 1944
+1944	explorer.exe	0xfa8002299440	0xb94	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8002299aa0	0xb98	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xf8a001ef49f0	0xb9c	Section	0x6	-
+1944	explorer.exe	0xfa80022aafc0	0xba0	Mutant	0x1f0001	_!MSFTHISTORY!_
+1944	explorer.exe	0xfa80022ae080	0xba4	Mutant	0x1f0001	c:!users!eminem!appdata!local!microsoft!windows!temporary internet files!content.ie5!
+1944	explorer.exe	0xfa80022afe60	0xba8	Mutant	0x1f0001	c:!users!eminem!appdata!roaming!microsoft!windows!cookies!
+1944	explorer.exe	0xfa80022acc40	0xbac	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+1944	explorer.exe	0xf8a001efe280	0xbb0	Section	0xf0007	C:_Users_eminem_AppData_Roaming_Microsoft_Windows_Cookies_index.dat_16384
+1944	explorer.exe	0xfa80022aeb10	0xbb4	Mutant	0x1f0001	c:!users!eminem!appdata!local!microsoft!windows!history!history.ie5!
+1944	explorer.exe	0xfa80022b2a80	0xbb8	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+1944	explorer.exe	0xf8a001efb260	0xbbc	Section	0xf0007	C:_Users_eminem_AppData_Local_Microsoft_Windows_History_History.IE5_index.dat_49152
+1944	explorer.exe	0xfa800210d690	0xbc0	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001fa16f0	0xbc4	Key	0x20006	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\10\SHELL
+1944	explorer.exe	0xf8a001effe50	0xbc8	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa8002315070	0xbcc	File	0x100081	\Device\HarddiskVolume2\Users\eminem\Links
+1944	explorer.exe	0xfa80022f0c90	0xbd0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022da630	0xbd4	File	0x100081	\Device\HarddiskVolume2\Users\eminem\Desktop\DumpIt
+1944	explorer.exe	0xfa8002112940	0xbd8	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001f9e730	0xbdc	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\10\SHELL\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}
+1944	explorer.exe	0xfa8002322070	0xbe0	File	0x100081	\Device\HarddiskVolume2\Users\eminem\Desktop\DumpIt
+1944	explorer.exe	0xf8a001d6c970	0xbe4	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa8002302f20	0xbe8	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022d7150	0xbec	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021e4fe0	0xbf0	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002146ce0	0xbf4	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022adc40	0xbf8	Mutant	0x1f0001	c:!users!eminem!appdata!local!microsoft!windows!history!history.ie5!mshist012019062920190630!
+1944	explorer.exe	0xf8a001f99400	0xbfc	Section	0xf0007	-
+1944	explorer.exe	0xfa80022c01a0	0xc04	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+1944	explorer.exe	0xfa80021b11d0	0xc08	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+1944	explorer.exe	0xf8a001fa1810	0xc0c	Section	0xf0007	-
+1944	explorer.exe	0xf8a001c06750	0xc10	Section	0xf0007	-
+1944	explorer.exe	0xfa80013ccf20	0xc14	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+1944	explorer.exe	0xfa80013ce930	0xc18	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+1944	explorer.exe	0xfa80013cea80	0xc1c	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+1944	explorer.exe	0xf8a001f2b640	0xc20	Section	0xf0007	-
+1944	explorer.exe	0xfa80021b71d0	0xc24	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_sr.db!dfMaintainer
+1944	explorer.exe	0xfa80013cebd0	0xc28	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+1944	explorer.exe	0xfa80021b3820	0xc2c	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!ThumbnailCacheInit
+1944	explorer.exe	0xf8a001f99710	0xc30	Section	0xf0007	-
+1944	explorer.exe	0xf8a001f94a10	0xc34	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa80021b7080	0xc38	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1024.db!dfMaintainer
+1944	explorer.exe	0xfa80021a8fc0	0xc3c	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_96.db!dfMaintainer
+1944	explorer.exe	0xfa80021a8f00	0xc40	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_256.db!dfMaintainer
+1944	explorer.exe	0xfa80021af1a0	0xc44	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_32.db!dfMaintainer
+1944	explorer.exe	0xfa80022ecc80	0xc48	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+1944	explorer.exe	0xfa80021a95d0	0xc4c	Event	0x1f0003	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterEvent
+1944	explorer.exe	0xfa80022b2ef0	0xc50	Mutant	0x100001	_!SHMSFTHISTORY!_
+1944	explorer.exe	0xfa80022fa270	0xc54	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001f22e00	0xc58	Section	0xf0007	C:_Users_eminem_AppData_Local_Microsoft_Windows_History_History.IE5_MSHist012019062920190630_index.dat_32768
+1944	explorer.exe	0xfa80022ce650	0xc5c	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012019062920190630\index.dat
+1944	explorer.exe	0xf8a001f216b0	0xc60	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000\SOFTWARE\MICROSOFT\INTERNET EXPLORER\MAIN\WINDOWSSEARCH
+1944	explorer.exe	0xfa80021ba5e0	0xc64	Thread	0x1fffff	Tid 1216 Pid 1944
+1944	explorer.exe	0xf8a001f1a450	0xc68	Section	0x6	windows_ie_global_counters
+1944	explorer.exe	0xf8a001f0f880	0xc6c	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa80021a13c0	0xc84	Event	0x1f0003	-
+1944	explorer.exe	0xfa8000efafe0	0xc8c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002239710	0xc98	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+1944	explorer.exe	0xfa800204b950	0xca0	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022fa3b0	0xca4	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020d8060	0xca8	Thread	0x1fffff	Tid 2444 Pid 1944
+1944	explorer.exe	0xfa80021b4fe0	0xcac	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022d8770	0xcb4	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001d4ddd0	0xcc8	Section	0xf0007	-
+1944	explorer.exe	0xfa8001e909d0	0xcd4	Event	0x21f0003	-
+1944	explorer.exe	0xfa80013c6b80	0xce0	Event	0x21f0003	-
+1944	explorer.exe	0xfa800210ef20	0xce4	File	0x12019f	\Device\VBoxGuest
+1944	explorer.exe	0xfa8002239710	0xcec	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+1944	explorer.exe	0xfa8002325ab0	0xcf4	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+1944	explorer.exe	0xfa80022ec420	0xcf8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001fd55a0	0xcfc	Event	0x100003	-
+1944	explorer.exe	0xf8a001f2bdc0	0xd00	Section	0xf0007	-
+1944	explorer.exe	0xfa80022f8670	0xd08	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021965e0	0xd0c	Event	0x1f0003	-
+1944	explorer.exe	0xfa8002119710	0xd10	Semaphore	0x100003	-
+1944	explorer.exe	0xfa8001fbcaa0	0xd14	Semaphore	0x100003	-
+1944	explorer.exe	0xfa80022f2a40	0xd18	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8001e827f0	0xd1c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020abc80	0xd20	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022f2b00	0xd24	File	0x100081	\Device\HarddiskVolume2\
+1944	explorer.exe	0xfa80021af1a0	0xd28	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_32.db!dfMaintainer
+1944	explorer.exe	0xfa800227a0f0	0xd2c	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001349d40	0xd30	Directory	0xf	BaseNamedObjects
+1944	explorer.exe	0xfa80022d5d40	0xd34	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa8002314e30	0xd38	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80022e9060	0xd3c	Thread	0x1fffff	Tid 2452 Pid 1944
+1944	explorer.exe	0xfa8001d03b00	0xd40	File	0x100020	\Device\HarddiskVolume2\Windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac
+1944	explorer.exe	0xfa80021b7080	0xd44	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1024.db!dfMaintainer
+1944	explorer.exe	0xfa80022d84e0	0xd48	File	0x100081	\Device\CdRom0\
+1944	explorer.exe	0xfa80020a8ea0	0xd4c	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+1944	explorer.exe	0xfa8001d03a40	0xd50	EtwRegistration	0x804	-
+1944	explorer.exe	0xfa80021b11d0	0xd54	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+1944	explorer.exe	0xfa80022db510	0xd58	Event	0x100003	-
+1944	explorer.exe	0xfa80020dde10	0xd5c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022ecdd0	0xd60	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+1944	explorer.exe	0xfa80022eb320	0xd64	Event	0x21f0003	-
+1944	explorer.exe	0xfa8002314430	0xd68	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022d96e0	0xd6c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022f5a30	0xd70	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e0dfe0	0xd74	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001da8960	0xd78	Event	0x1f0003	-
+1944	explorer.exe	0xfa80020b8060	0xd7c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021a95d0	0xd80	Event	0x1f0003	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterEvent
+1944	explorer.exe	0xfa80022db590	0xd84	Event	0x1f0003	-
+1944	explorer.exe	0xfa80021a8fc0	0xd88	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_96.db!dfMaintainer
+1944	explorer.exe	0xfa8002312e00	0xd8c	Event	0x100003	-
+1944	explorer.exe	0xfa80021b71d0	0xd90	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_sr.db!dfMaintainer
+1944	explorer.exe	0xfa80021b3820	0xd94	Mutant	0x1f0001	C::Users:eminem:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!ThumbnailCacheInit
+1944	explorer.exe	0xf8a001f75ac0	0xd98	Section	0xf0007	-
+1944	explorer.exe	0xfa8001cb97d0	0xd9c	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+1944	explorer.exe	0xf8a001bc2eb0	0xda0	Section	0xf0007	-
+1944	explorer.exe	0xfa80021e38e0	0xda4	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+1944	explorer.exe	0xf8a001f5c130	0xda8	Section	0xf0007	-
+1944	explorer.exe	0xfa8001402590	0xdac	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+1944	explorer.exe	0xf8a001bcd160	0xdb0	Section	0xf0007	-
+1944	explorer.exe	0xfa8000e48070	0xdb4	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+1944	explorer.exe	0xf8a001f8cc90	0xdb8	Section	0xf0007	-
+1944	explorer.exe	0xf8a001d65ab0	0xdbc	Key	0x20019	USER\S-1-5-21-410795266-795571449-2132107757-1000_CLASSES\LOCAL SETTINGS\SOFTWARE\MICROSOFT\WINDOWS\SHELL\BAGS\ALLFOLDERS\SHELL
+1944	explorer.exe	0xfa8002165fe0	0xdc0	Event	0x100003	-
+1944	explorer.exe	0xfa80021ee6a0	0xdc4	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d63630	0xdc8	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001ca37d0	0xdd0	Desktop	0x200bf	Default
+1944	explorer.exe	0xfa8001da89e0	0xdd4	Event	0x100003	-
+1944	explorer.exe	0xf8a00225f850	0xdd8	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\COMMANDSTORE
+1944	explorer.exe	0xfa8001e36d80	0xddc	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+1944	explorer.exe	0xfa800233a0e0	0xde0	Event	0x1f0003	-
+1944	explorer.exe	0xf8a001f22fa0	0xde4	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\COMMANDSTORE
+1944	explorer.exe	0xfa800224fe60	0xdec	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001cdbb60	0xdf8	Thread	0x1fffff	Tid 2656 Pid 1944
+1944	explorer.exe	0xfa80022eeb60	0xe04	Thread	0x1fffff	Tid 2472 Pid 1944
+1944	explorer.exe	0xf8a00195b130	0xe0c	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\COMMANDSTORE\SHELL\WINDOWS.NEWFOLDER
+1944	explorer.exe	0xf8a0023e00e0	0xe10	Key	0x9	MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\EXPLORER\COMMANDSTORE
+1944	explorer.exe	0xfa8002324b60	0xe14	Thread	0x1fffff	Tid 2448 Pid 1944
+1944	explorer.exe	0xfa80020dee60	0xe2c	ALPC Port	0x1f0001	-
+1944	explorer.exe	0xfa8001d3fae0	0xe30	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001e36d80	0xe34	File	0x12019f	\Device\HarddiskVolume2\Users\eminem\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+1944	explorer.exe	0xfa8002200200	0xe40	Thread	0x1fffff	Tid 1004 Pid 1944
+1944	explorer.exe	0xfa8001c79260	0xe44	Event	0x1f0003	-
+1944	explorer.exe	0xfa8001d568f0	0xe58	Event	0x21f0003	-
+1944	explorer.exe	0xfa800134b130	0xe5c	Event	0x1f0003	-
+1944	explorer.exe	0xfa80022ee7f0	0xe68	Event	0x1f0003	-
