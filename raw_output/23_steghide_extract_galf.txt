@@ -1,0 +1,14 @@
+=== Command: Steghide Extraction with Empty Passphrase ===
+$ steghide extract -sf deep_analysis/extracted/file.0x3e8ad250.0xfa80022ad0f0.DataSectionObject.galf.jpeg.dat -p "" -xf deep_analysis/extracted/LMAO.txt
+wrote extracted data to "deep_analysis/extracted/LMAO.txt".
+
+$ cat deep_analysis/extracted/LMAO.txt
+Move on bro, there is nothing here :)
+
+$ md5sum deep_analysis/extracted/LMAO.txt
+24b2f7c3998a603c51394dc0736d37cb  deep_analysis/extracted/LMAO.txt
+
+$ sha256sum deep_analysis/extracted/LMAO.txt
+9a1ec67f5e3f22bc6c445709568d42ad0aa2df4af96898d71a1c7c3cff9dee70  deep_analysis/extracted/LMAO.txt
+
+[Interpretation: The encrypted steghide container embedded in galf.jpeg was protected by an empty passphrase (""). The extracted file LMAO.txt (38 bytes) is a deliberate anti-forensic decoy message ("Move on bro, there is nothing here :)") designed to mislead investigators.]

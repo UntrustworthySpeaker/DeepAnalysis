@@ -1,0 +1,71 @@
+=== Command: Direct Physical Memory Carving for Important.txt ===
+Target: MemoryDump_Lab4_Copy.raw
+Methodology: Targeted raw memory strings scanning for "Important.txt" references, locating resident NTFS MFT record signatures (FILE0...), parsing resident $DATA attribute (type 0x80), and extracting intact 153-byte plaintext.
+
+1. Discovered Resident MFT Record at Physical Offset: 1004055552 (0x3bd8ac00)
+   - Record Header: FILE0... (MFT record 0x39147)
+   - Filename attribute (0x30): Important.txt (DOS name: IMPORT~1.TXT)
+   - Path association: \Users\SlimShady\Desktop\Important.txt
+   - Timestamps:
+     * Creation: 2019-06-27 18:14:13 UTC
+     * Modification: 2019-06-27 18:26:12 UTC
+   - Data attribute (0x80): Resident, Length 0xb8, Form code 0x00 (Resident)
+   - Content Size: 0x99 (153 bytes)
+   - Content Offset in MFT record: 0x1c8 (Physical Offset: 1004056008 / 0x3bd8adc8)
+
+2. Extracted Plaintext Content (153 bytes):
+--------------------------------------------------
+i
+
+
+n
+
+
+ct
+
+
+
+f{1
+
+
+_is
+
+
+_n0t
+
+
+
+_EQu4l
+
+
+
+_7o_2_bUt
+
+
+
+
+
+
+_th1s_d0s3nt
+
+
+
+_m4ke
+
+
+_s3n
+
+
+
+s3}
+
+Good work :P
+--------------------------------------------------
+
+3. Flag Reconstruction:
+Stripping inter-token delimiter lines and formatting gives the complete competition flag:
+inctf{1_is_n0t_EQu4l_7o_2_bUt_th1s_d0s3nt_m4ke_s3ns3}
+
+4. Cryptographic Integrity:
+- MD5: 3b07cd60cbfc3ea0f41adcaf9824e27c
+- SHA-256: 352b436ea0ee449631985c10e1610f124fa99e46583b1c7e8b0f7122b7b42708

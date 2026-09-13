@@ -1,0 +1,24 @@
+=== Command 1: Volatility 3 Attempt ===
+$ vol -f /home/engineer/Documents/University/MemoryForensic/working_directory/MemoryDump_Lab4_Copy.raw windows.clipboard
+vol: error: argument PLUGIN: invalid choice windows.clipboard
+[Note: Volatility 3 does not include a native windows.clipboard plugin; clipboard analysis is supported in Volatility 2]
+
+=== Command 2: Volatility 2 Execution ===
+$ python2 vol.py -f /home/engineer/Documents/University/MemoryForensic/working_directory/MemoryDump_Lab4_Copy.raw --profile=Win7SP1x64 clipboard -v
+Volatility Foundation Volatility Framework 2.6.1
+Session    WindowStation Format                         Handle Object             Data                                              
+---------- ------------- ------------------ ------------------ ------------------ --------------------------------------------------
+         2 WinSta0       CF_UNICODETEXT                    0x0 ------------------                                                   
+         2 WinSta0       0x0L                             0x10 ------------------                                                   
+         2 WinSta0       0x100ffL               0x200000000000 ------------------                                                   
+         2 WinSta0       CF_TEXT                           0x1 ------------------                                                   
+         1 WinSta0       CF_UNICODETEXT                    0x0 ------------------                                                   
+         1 WinSta0       0x0L                             0x10 ------------------                                                   
+         1 WinSta0       0x1010bL               0x200000000000 ------------------                                                   
+         1 WinSta0       CF_TEXT                           0x1 ------------------                                                   
+         1 ------------- ------------------            0x1010b 0xfffff900c1eb75c0                                                   
+0xfffff900c1eb75d4  09 04 00 00                                       ....
+         2 ------------- ------------------            0x100ff 0xfffff900c1acd390                                                   
+0xfffff900c1acd3a4  09 04 00 00                                       ....
+
+[Interpretation: Clipboard contains only locale identifier 0x0409 (en-US). No plaintext flag or credential. Directly corroborates StickyNotes.snt clue: "The clipboard plugin works well but it doesn't give the flag :P"]
